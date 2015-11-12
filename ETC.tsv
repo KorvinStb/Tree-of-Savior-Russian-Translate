@@ -1,4 +1,4 @@
-ETC_20150317_000001	Kepa
+﻿ETC_20150317_000001	Kepa
 ETC_20150317_000002	Kepa - не очень сильный монстр. Однако непродуманная атака может заставить тебя плакать.
 ETC_20150317_000003	Огромная Kepa
 ETC_20150317_000004	Есть люди, которые иногда пробуют съесть огромную Kepa. Не дай им этого сделать.
@@ -2817,7 +2817,7 @@ ETC_20150317_002816	Обычная
 ETC_20150317_002817	Тяжелая
 ETC_20150317_002818	Очень тяжелая
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
-ETC_20150317_002820	Область: 
+ETC_20150317_002820	Местность: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Подойдите к NPC и нажмите 
@@ -4338,9 +4338,9 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{memo X}{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Увеличивает HP, Восстановление HP, Критическое Сопротивление, Максимальный Переносимый Вес.{/}
+ETC_20150317_004341	{@st59}Увеличивает HP,{nl}Восстановление HP,{nl}Критическое сопротивление,{nl}Максимально переносимый вес.{/}
 ETC_20150317_004342	{memo X}{@st59} Increase in Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Увеличивает меткость, Уворот и Шанс Критической Атаки. {/}
+ETC_20150317_004343	{@st59}Увеличивает меткость,{nl}Уворот и{nl}Шанс критической атаки. {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -13610,7 +13610,7 @@ ETC_20150717_013611	{memo X}Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silver obtained.
 ETC_20150717_013614	{memo X}{@st59}Increase in Max SP, SP Recovery and Block Penetration{/}
-ETC_20150717_013615	{@st59}Увеличивает Магическую Атаку{/}
+ETC_20150717_013615	{@st59}Увеличивает магическую атаку{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Mine Trap
 ETC_20150729_013618	Basic Trap
@@ -13692,7 +13692,7 @@ ETC_20150729_013693	Нажмите{img M 40 40}для просмотра кар�
 ETC_20150729_013694	{nl} {nl}Значки на миникарте отображают {nl}информацию и местоположение NPC в {nl}области на текущей карте.{nl} {nl}{img minimap_leader 25 25} указывает ваше местоположение. {nl}{img minimap_1_MAIN 25 25} указывает цель задания. {nl}{img minimap_0 25 25} указывает расположение важных NPC. {nl}{img minimap_goddess 25 25} указывает Статую Богини для {nl}       перемещения. {nl}{img minimap_board 25 25} указывает на доску объявлений, {nl}       содержащую различную информацию. {nl}{img minimap_portal 25 25} указывает путь для перемещения в {nl}       другие области.{nl} {nl}
 ETC_20150729_013695	Нажмите {img N 40 40} что бы открыть Карту Мира.
 ETC_20150729_013696	Только области, которые вы уже открыли, {nl}будут отображаться на Карте Мира. {nl}Неразведанные области не будут {nl}отображаться на Карте Мира.
-ETC_20150729_013697	Наведите курсор на разведанную область, {nl}чтобы увидеть детальную карту.
+ETC_20150729_013697	Наведите курсор на разведанную местность, {nl}чтобы увидеть детальную карту.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
 ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
@@ -13963,7 +13963,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	{memo X}The terminal rejected accesss!
 ETC_20150729_013966	{memo X}You will lost your energy to the terminal for 1 minute!{nl}Sitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	{memo X}Obtained all core required.
-ETC_20150729_013968	{@st59}Увеличивает Макс. SP, Востановление SP, Блокировку Пробития и Магическую защиту.{/}
+ETC_20150729_013968	{@st59}Увеличивает SP,{nl}Востановление SP,{nl}Блокировку пробития,{nl}Магическую защиту.{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5, and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	You've dedicated the tendon of Big Siaulamb as an offering
@@ -14012,7 +14012,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Увеличивает Физическую, Критическую Атаки и Максимальный Переносимый Вес.{/}
+ETC_20150729_014017	{@st59}Увеличивает физическую,{nl}Критическую атаки,{nl}Максимально переносимый вес.{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
@@ -14593,7 +14593,7 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Вспомогательная Физическая Атака
+ETC_20150918_014598	Вспомогательная Физ. Атака
 ETC_20150918_014599	Seconday Magical Attack
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
