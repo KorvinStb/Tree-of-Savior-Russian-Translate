@@ -1628,7 +1628,7 @@ ETC_20150317_001627	Combination of possible equipment:
 ETC_20150317_001628	Return
 ETC_20150317_001629	{@st59}Заблокировать слоты.{/}
 ETC_20150317_001630	{@st59}Разблокировать слоты.{/}
-ETC_20150317_001631	{@st59} Вернуться (Backspace) {/}
+ETC_20150317_001631	{@st59}Вернуться (Backspace){/}
 ETC_20150317_001632	Are you sure you want to delete? {/}
 ETC_20150317_001633	Cannot be used while the character is dead.
 ETC_20150317_001634	{@st59} Move {/}
@@ -1641,7 +1641,7 @@ ETC_20150317_001640	Unavailable in the current map.
 ETC_20150317_001641	[{The}] feature is enabled.
 ETC_20150317_001642	[{Ability}] triggered!
 ETC_20150317_001643	Remaining Time: {Auto_1}
-ETC_20150317_001644	Cегодняшний совет : 
+ETC_20150317_001644	Совет дня: 
 ETC_20150317_001645	You cannot equip this equipment in this slot.
 ETC_20150317_001646	Do you really wish to quit?
 ETC_20150317_001647	{S20}{ol}{#ff1100} This attribute cannot be bought.
@@ -1730,7 +1730,7 @@ ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items..
 ETC_20150317_001731	Получено
 ETC_20150317_001732	Place the card into the slot to equip it.
-ETC_20150317_001733	Repair Cost: {Price}{nl} Are you sure you want to repair?
+ETC_20150317_001733	Цена починки: {Price}{nl}Вы уверены что хотите починиться?
 ETC_20150317_001734	Undecided
 ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
@@ -1757,8 +1757,8 @@ ETC_20150317_001756	Place an item.
 ETC_20150317_001757	Gems
 ETC_20150317_001758	Socket
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remain}
-ETC_20150317_001760	Please select an item to repair.
-ETC_20150317_001761	There is no item to repair.
+ETC_20150317_001760	Пожалуйста выбирите предметы{nl}для починки.
+ETC_20150317_001761	Этот предмет нельзя починить.
 ETC_20150317_001762	Not possible on this item type.
 ETC_20150317_001763	{memo part of item requirement, sounds awkward, so removed for now. Originally " can equip"} 
 ETC_20150317_001764	You do not have enough Potential to trade.
@@ -1768,7 +1768,7 @@ ETC_20150317_001767	Cannot be used within the same area.
 ETC_20150317_001768	{memo X}Item in buff
 ETC_20150317_001769	Types
 ETC_20150317_001770	Companion Equipment
-ETC_20150317_001771	Repair Completed
+ETC_20150317_001771	Починка завершина
 ETC_20150317_001772	Броня компаньона
 ETC_20150317_001773	Оружие компаньона
 ETC_20150317_001774	Шлем
@@ -1874,7 +1874,7 @@ ETC_20150317_001873	Inheritance
 ETC_20150317_001874	Start
 ETC_20150317_001875	Join
 ETC_20150317_001876	Obtained item
-ETC_20150317_001877	Accessory
+ETC_20150317_001877	Аксессуары
 ETC_20150317_001878	Set
 ETC_20150317_001879	{memo X}Recipe
 ETC_20150317_001880	Active Skill
@@ -1968,8 +1968,8 @@ ETC_20150317_001967	Личное сообщение
 ETC_20150317_001968	Right-click to equip
 ETC_20150317_001969	Right-click to sell
 ETC_20150317_001970	Right-click to remove
-ETC_20150317_001971	 Level or higher
-ETC_20150317_001972	Repair Cost
+ETC_20150317_001971	Level or higher
+ETC_20150317_001972	Цена починки
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used
 ETC_20150317_001974	Item Rarity
 ETC_20150317_001975	Available
@@ -3136,7 +3136,7 @@ ETC_20150317_003135	owner_ssn not available
 ETC_20150317_003136	no parent PC available
 ETC_20150317_003137	SSN_OBJECT_STORAGE session not given
 ETC_20150317_003138	Accept Mission
-ETC_20150317_003139	Cancel
+ETC_20150317_003139	Отмена
 ETC_20150317_003140	Can be traded right away through instant shop
 ETC_20150317_003141	Opening lock
 ETC_20150317_003142	Empty box
@@ -4805,7 +4805,7 @@ ETC_20150317_004804	Enhancing the Thorn Flower Powder Stimulant
 ETC_20150317_004805	Drank the stimulant
 ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Obtaining the Revelation
-ETC_20150317_004808	Repair
+ETC_20150317_004808	Починка
 ETC_20150317_004809	Secondary Equipment
 ETC_20150317_004810	One-handed Sword
 ETC_20150317_004811	Two-handed Sword
@@ -9192,10 +9192,10 @@ ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Electricity)
 ETC_20150317_009194	Practice Post (Earth)
 ETC_20150317_009195	{memo X}[Item Merchant]{nl}         Mirina
-ETC_20150317_009196	[Equipment Merchant]{nl}                 Dunkel
-ETC_20150317_009197	[Accessory Merchant]{nl}                Ronesa
+ETC_20150317_009196	[Продавец снаряжения]{nl}                Dunkel
+ETC_20150317_009197	[Продавец аксессуаров]{nl}                Ronesa
 ETC_20150317_009198	Klaipeda Goddess Statue
-ETC_20150317_009199	[Blacksmith]{nl}       Zaras
+ETC_20150317_009199	[Кузнец]{nl}    Zaras
 ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
 ETC_20150317_009201	[Cryomancer Master]{nl}    Alistair Crowley
 ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler
@@ -13598,7 +13598,7 @@ ETC_20150717_013599	There is an instant shop registered {nl}Register instant sho
 ETC_20150717_013600	You have lit the bonfire!
 ETC_20150717_013601	It is already on fire!
 ETC_20150717_013602	{memo X}[Tools Merchant]{nl}     Anna
-ETC_20150717_013603	[Item Merchant]{nl}           Mirina
+ETC_20150717_013603	[Продавец предметов]{nl}               Mirina
 ETC_20150717_013604	Spell Control Magic Circle.
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	{memo X}The corpse of the Kingdom Army Guard
@@ -15820,10 +15820,10 @@ ETC_20151016_015815	Cannoneer Advancement	캐노니어 전직	ETC_20150317_00868
 ETC_20151016_015816	Musketeer Advancement	머스킷티어 전직	ETC_20150317_008686	Monk Advancement	몽크 전직	
 ETC_20151016_015817	Plague Doctor Advancement	플레이그닥터 전직	ETC_20150317_008696	Remove Zombie Status	좀비상태 해제	
 ETC_20151016_015818	Kabbalist Advancement	카발리스트 전직	ETC_20150317_008697	View object state	오브젝트 상태 보기	
-ETC_20151016_015819	By Grade	등급순				
-ETC_20151016_015820	By Weight	무게순				
-ETC_20151016_015821	By Price	가격순				
-ETC_20151016_015822	By Name	이름순				
+ETC_20151016_015819	По классу	등급순				
+ETC_20151016_015820	По весу	무게순				
+ETC_20151016_015821	По цене	가격순				
+ETC_20151016_015822	По названию	이름순				
 ETC_20151016_015823	The pole that was hidden	숨겨져 있던 기둥	ETC_20151001_015041	{memo X}Summon Pillar	소환 기둥	
 ETC_20151016_015824	The benefits of Kedora Merchants!	케도라 상단의 혜택!	ETC_20151001_015044	{memo X}The blessing of Kedoraomer Merchants!	케도라오머 상단의 축복!	
 ETC_20151016_015825	Already detected	이미 발견 했습니다	ETC_20151001_015063	{memo X}You've found the place where the divine object is located	이미 성물이 있는 곳을 발견 했습니다	
