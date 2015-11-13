@@ -1786,7 +1786,7 @@ ETC_20150317_001785	Fire Attack Rate
 ETC_20150317_001786	Skill Ability
 ETC_20150317_001787	Вес: {All} / {Max}
 ETC_20150317_001788	Вес ({Rate}%)
-ETC_20150317_001789	Без гнезд
+ETC_20150317_001789	Без слота
 ETC_20150317_001790	Tournament Champion
 ETC_20150317_001791	Tournament Second Winner
 ETC_20150317_001792	Ranker of Tournament {Auto_1} Round
@@ -1968,7 +1968,7 @@ ETC_20150317_001967	Личное сообщение
 ETC_20150317_001968	Right-click to equip
 ETC_20150317_001969	Right-click to sell
 ETC_20150317_001970	Right-click to remove
-ETC_20150317_001971	Level or higher
+ETC_20150317_001971	 уровень или выше
 ETC_20150317_001972	Цена починки
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used
 ETC_20150317_001974	Item Rarity
@@ -4693,7 +4693,7 @@ ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
 ETC_20150317_004695	{memo X}{#050505}{s18}{b} Socket Effect :
-ETC_20150317_004696	{#050505}{s22}{b} Эффект предмета :
+ETC_20150317_004696	{#050505}{s22}{b}Эффект предмета:
 ETC_20150317_004697	{@st42} Use
 ETC_20150317_004698	Shop for sale
 ETC_20150317_004699	Shop not for sale
@@ -6112,7 +6112,7 @@ ETC_20150317_006112	{memo X}Right-click on the gem to highlight items in your in
 ETC_20150317_006113	{memo X}The Gem will be inserted into the item that you select.
 ETC_20150317_006114	{memo X}Gems inserted can be seen in the item tooltip.
 ETC_20150317_006115	{memo X}To remove the a Gem, use {nl}
-ETC_20150317_006116	Socket Management
+ETC_20150317_006116	Управление слотами
 ETC_20150317_006117	Gem Extraction
 ETC_20150317_006118	{memo X} .
 ETC_20150317_006119	{memo X}Caution: Potential is consumed when you remove Gems.
