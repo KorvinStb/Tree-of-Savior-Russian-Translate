@@ -2927,8 +2927,8 @@ ETC_20150317_002926	The trade was canceled.
 ETC_20150317_002927	The trade was successful. 
 ETC_20150317_002928	Send a trade request to {To}.
 ETC_20150317_002929	No save point specified
-ETC_20150317_002930	You have an item with less than 30% durability remaining.
-ETC_20150317_002931	You have an item with 0 durability.
+ETC_20150317_002930	У вас есть экиперовка с прочностью менее чем 30%.
+ETC_20150317_002931	У вас есть экиперовка с прочностью 0.
 ETC_20150317_002932	This equipped item cannot be consumed.
 ETC_20150317_002933	This enhanced item cannot be consumed.
 ETC_20150317_002934	Your enhanced item will be consumed. Are you sure you want to proceed?
