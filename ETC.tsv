@@ -1456,32 +1456,32 @@ ETC_20150317_001455	Please adjust your screen resolution to at least 1024x768 an
 ETC_20150317_001456	The client has been shutdown due to a display driver error. {nl} Please contact the manufacturer for assistance
 ETC_20150317_001457	The client has been shutdown due to a audio driver error. {nl} Please install or reinstall the audio driver.
 ETC_20150317_001458	Background data does not exist. Please download all data and try again.
-ETC_20150317_001459	Вы не можите написать себе.
+ETC_20150317_001459	Вы не можете написать себе.
 ETC_20150317_001460	Chat can not exceed {Max} bytes. Number of emoticons usable are limited because it may take several bytes.
 ETC_20150317_001461	Duration
 ETC_20150317_001462	User
 ETC_20150317_001463	Время вышло.
 ETC_20150317_001464	Имя
-ETC_20150317_001465	{memo X}{S18}{ol}{#ffffcc}Ваше имя не может содержать больше 16 символов {nl} включая пробелы.
-ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}Соединение с сервером разорвано.{nl}
+ETC_20150317_001465	{memo X}{S18}{ol}{#ffffcc}Ваше имя не может содержать больше 16 символов{nl}включая пробелы.
+ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}Соединение с сервером разорвано.
 ETC_20150317_001467	{memo X}{S18}{ol}{#ffffcc}Переход к окну авторизации через 3 секунды.
 ETC_20150317_001468	{memo X}{S18}{ol}{#ffffcc}Невозможно соединиться с сервером.
 ETC_20150317_001469	{memo X}{S18}{ol}{#ffffcc}Ваш ID превышает максимальную допустимую длину.
-ETC_20150317_001470	{memo X}{S18}{ol}{#ffffcc}Неверное имя пользователя или пароль. {nl} Пожалуйста, обратите внимание, что пароль чувствителен к регистру.
-ETC_20150317_001471	{memo X}{S18}{ol}{#ffffcc}Отключение от сервера не завершено, или вы уже вошли..{nl} Отключение от сервера может занять до 3 минут.
+ETC_20150317_001470	{memo X}{S18}{ol}{#ffffcc}Неверное имя пользователя или пароль.{nl}Пожалуйста, обратите внимание, что пароль чувствителен к регистру.
+ETC_20150317_001471	{memo X}{S18}{ol}{#ffffcc}Отключение от сервера не завершено, или вы уже вошли.{nl}Отключение от сервера может занять до 3 минут.
 ETC_20150317_001472	{memo X}{S18}{ol}{#ffffcc}Неправильный Код подтверждения.
-ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}Это имя занято. {nl} Пожалуйста, введите другое имя.
+ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}Это имя занято.{nl}Пожалуйста, введите другое имя.
 ETC_20150317_001474	{memo X}{S18}{ol}{#ffffcc}Вы не можете создать персонажа.
-ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}Вы не можете удалить этот символ.
-ETC_20150317_001476	Team does not exist
-ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}This character does not exist
+ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}Вы не можете удалить этого персонажа.
+ETC_20150317_001476	Команда не существует
+ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}Этот персонаж не существует
 ETC_20150317_001478	Cannot start game
 ETC_20150317_001479	{memo X}{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
 ETC_20150317_001480	You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
 ETC_20150317_001481	You cannot obtain any more items. You have exceeded the maximum number of items allowed.
 ETC_20150317_001482	Your inventory is full
 ETC_20150317_001483	Этот сервер закрыт.
-ETC_20150317_001484	This item cannot be equipped
+ETC_20150317_001484	Вы не можете одеть эту экиперовку
 ETC_20150317_001485	[{Word}] is not allowed for use.
 ETC_20150317_001486	{S20}{ol}{#46c8ff} You do not have enough SP
 ETC_20150317_001487	Server version does not match
@@ -1648,10 +1648,10 @@ ETC_20150317_001647	{S20}{ol}{#ff1100} This attribute cannot be bought.
 ETC_20150317_001648	You cannot equip items with 0 durability.
 ETC_20150317_001649	Delete
 ETC_20150317_001650	The server has disconnected. Please try again later.
-ETC_20150317_001651	{Year}/{Month}/{Day} - {Hour} часов {Min} минут {Sec} секунд
+ETC_20150317_001651	{Day}/{Month}/{Year} - {Hour} часов {Min} минут {Sec} секунд
 ETC_20150317_001652	Read more
 ETC_20150317_001653	You cannot change your equipment before picking up a thrown item.
-ETC_20150317_001654	{Month} {Day}
+ETC_20150317_001654	{Day} {Month}
 ETC_20150317_001655	{Day}
 ETC_20150317_001656	{Hour} ч 
 ETC_20150317_001657	{Min} мин 
@@ -1663,7 +1663,7 @@ ETC_20150317_001662	Мужской
 ETC_20150317_001663	Женский
 ETC_20150317_001664	{Month}
 ETC_20150317_001665	{Year}
-ETC_20150317_001666	This channel is full.
+ETC_20150317_001666	Этот канал заполнен.
 ETC_20150317_001667	This skill cannot be used whilst riding your Companion.
 ETC_20150317_001668	A skill that can be used only while riding your Companion.
 ETC_20150317_001669	Must be at least {LEN} characters.
@@ -1673,7 +1673,7 @@ ETC_20150317_001672	You cannot ride during Rest Mode.
 ETC_20150317_001673	You cannot ride on a fainted Companion.
 ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	You have been been banned by the administrator.
-ETC_20150317_001676	{Name} ({Mapname} / Channel {ChNo})
+ETC_20150317_001676	{Name} ({Mapname} / Канал {ChNo})
 ETC_20150317_001677	This skill cannot be crafted.
 ETC_20150317_001678	{memo X}{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl} {nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click 
 ETC_20150317_001679	You do not have enough Potential to enhance this item
@@ -1691,8 +1691,8 @@ ETC_20150317_001690	Cancel Enhancement
 ETC_20150317_001691	Deposit
 ETC_20150317_001692	Re-enhance
 ETC_20150317_001693	Click an item to enhance
-ETC_20150317_001694	Успех !!!
-ETC_20150317_001695	Неудача!!!
+ETC_20150317_001694	Успех
+ETC_20150317_001695	Неудача
 ETC_20150317_001696	There is no empty socket that matches this type.
 ETC_20150317_001697	Поместите предмет, который вы хотите {nl}улучшить.
 ETC_20150317_001698	{memo X}Card Enhancement
@@ -1748,14 +1748,14 @@ ETC_20150317_001747	Show All
 ETC_20150317_001748	Расходуемый
 ETC_20150317_001749	Книги
 ETC_20150317_001750	Money
-ETC_20150317_001751	Доп-оружие
+ETC_20150317_001751	Доп.оружие
 ETC_20150317_001752	Палка
 ETC_20150317_001753	Пиджак
 ETC_20150317_001754	Шапка
 ETC_20150317_001755	Двуручное копье
 ETC_20150317_001756	Place an item.
 ETC_20150317_001757	Gems
-ETC_20150317_001758	Socket
+ETC_20150317_001758	Слот
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remain}
 ETC_20150317_001760	Пожалуйста выбирите предметы{nl}для починки.
 ETC_20150317_001761	Этот предмет нельзя починить.
@@ -1766,9 +1766,9 @@ ETC_20150317_001765	Please select an item.
 ETC_20150317_001766	Do you want to consume the selected items to create poison?
 ETC_20150317_001767	Cannot be used within the same area.
 ETC_20150317_001768	{memo X}Item in buff
-ETC_20150317_001769	Types
+ETC_20150317_001769	Тип
 ETC_20150317_001770	Companion Equipment
-ETC_20150317_001771	Починка завершина
+ETC_20150317_001771	Починка завершена
 ETC_20150317_001772	Броня компаньона
 ETC_20150317_001773	Оружие компаньона
 ETC_20150317_001774	Шлем
@@ -1841,7 +1841,7 @@ ETC_20150317_001840	OK
 ETC_20150317_001841	Да
 ETC_20150317_001842	Нет
 ETC_20150317_001843	Message
-ETC_20150317_001844	[Notice]
+ETC_20150317_001844	[Уведомление]
 ETC_20150317_001845	Full
 ETC_20150317_001846	Logout
 ETC_20150317_001847	{Ul} item! {/}
@@ -1877,8 +1877,8 @@ ETC_20150317_001876	Obtained item
 ETC_20150317_001877	Аксессуары
 ETC_20150317_001878	Set
 ETC_20150317_001879	{memo X}Recipe
-ETC_20150317_001880	Active Skill
-ETC_20150317_001881	Passive Skill
+ETC_20150317_001880	Активный навык
+ETC_20150317_001881	Пассивный навык
 ETC_20150317_001882	1. Write a message to promote your sale.
 ETC_20150317_001883	2. Insert items for sale into the bottom slot.
 ETC_20150317_001884	1. Write a message to promote your purchase.
