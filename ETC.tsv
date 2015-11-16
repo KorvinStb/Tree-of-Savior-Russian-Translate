@@ -1335,10 +1335,10 @@ ETC_20150317_001334	{memo X}Pilgrimage Trail 31_1
 ETC_20150317_001335	{memo X}Pilgrimage Trail 31_2
 ETC_20150317_001336	{memo X}Pilgrimage Trail 31_3
 ETC_20150317_001337	{memo X}Petrified City 58
-ETC_20150317_001338	Barracks
-ETC_20150317_001339	{memo X}Barracks2
-ETC_20150317_001340	{memo X}Pyromancer Barracks
-ETC_20150317_001341	{memo X}Noble Barracks
+ETC_20150317_001338	Казармы
+ETC_20150317_001339	{memo X}Казармы2
+ETC_20150317_001340	{memo X}Казармы пиромантов
+ETC_20150317_001341	{memo X}Дворянские казармы 
 ETC_20150317_001342	Pub
 ETC_20150317_001343	Test Zone
 ETC_20150317_001344	Test 2
@@ -1456,23 +1456,23 @@ ETC_20150317_001455	Please adjust your screen resolution to at least 1024x768 an
 ETC_20150317_001456	The client has been shutdown due to a display driver error. {nl} Please contact the manufacturer for assistance
 ETC_20150317_001457	The client has been shutdown due to a audio driver error. {nl} Please install or reinstall the audio driver.
 ETC_20150317_001458	Background data does not exist. Please download all data and try again.
-ETC_20150317_001459	You cannot whisper to yourself.
+ETC_20150317_001459	Вы не можите написать себе.
 ETC_20150317_001460	Chat can not exceed {Max} bytes. Number of emoticons usable are limited because it may take several bytes.
 ETC_20150317_001461	Duration
 ETC_20150317_001462	User
-ETC_20150317_001463	Time Left
+ETC_20150317_001463	Время вышло.
 ETC_20150317_001464	Имя
-ETC_20150317_001465	{memo X}{S18}{ol}{#ffffcc}Your name cannot exceed 16 characters {nl} including blank spaces.
-ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}Disconnected from the server.{nl}
-ETC_20150317_001467	{memo X}{S18}{ol}{#ffffcc}Move to the login mode after 3 seconds.
-ETC_20150317_001468	{memo X}{S18}{ol}{#ffffcc}Cannot connect to server.
-ETC_20150317_001469	{memo X}{S18}{ol}{#ffffcc}Your ID exceeds the maximum length allowed.
-ETC_20150317_001470	{memo X}{S18}{ol}{#ffffcc}Your username or password is incorrect. {nl} Please note that passwords are case sensitive.
-ETC_20150317_001471	{memo X}{S18}{ol}{#ffffcc}Server shutdown is not completed, or you are already logged in.{nl} Server shutdown may take up to 3 minutes.
-ETC_20150317_001472	{memo X}{S18}{ol}{#ffffcc}Wrong verification code.
-ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}This name already exists. {nl} Please enter a different name.
-ETC_20150317_001474	{memo X}{S18}{ol}{#ffffcc}You cannot create a character.
-ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}You cannot delete this character.
+ETC_20150317_001465	{memo X}{S18}{ol}{#ffffcc}Ваше имя не может содержать больше 16 символов {nl} включая пробелы.
+ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}Соединение с сервером разорвано.{nl}
+ETC_20150317_001467	{memo X}{S18}{ol}{#ffffcc}Переход к окну авторизации через 3 секунды.
+ETC_20150317_001468	{memo X}{S18}{ol}{#ffffcc}Невозможно соединиться с сервером.
+ETC_20150317_001469	{memo X}{S18}{ol}{#ffffcc}Ваш ID превышает максимальную допустимую длину.
+ETC_20150317_001470	{memo X}{S18}{ol}{#ffffcc}Неверное имя пользователя или пароль. {nl} Пожалуйста, обратите внимание, что пароль чувствителен к регистру.
+ETC_20150317_001471	{memo X}{S18}{ol}{#ffffcc}Отключение от сервера не завершено, или вы уже вошли..{nl} Отключение от сервера может занять до 3 минут.
+ETC_20150317_001472	{memo X}{S18}{ol}{#ffffcc}Неправильный Код подтверждения.
+ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}Это имя занято. {nl} Пожалуйста, введите другое имя.
+ETC_20150317_001474	{memo X}{S18}{ol}{#ffffcc}Вы не можете создать персонажа.
+ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}Вы не можете удалить этот символ.
 ETC_20150317_001476	Team does not exist
 ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}This character does not exist
 ETC_20150317_001478	Cannot start game
@@ -2927,8 +2927,8 @@ ETC_20150317_002926	The trade was canceled.
 ETC_20150317_002927	The trade was successful. 
 ETC_20150317_002928	Send a trade request to {To}.
 ETC_20150317_002929	No save point specified
-ETC_20150317_002930	You have an item with less than 30% durability remaining.
-ETC_20150317_002931	You have an item with 0 durability.
+ETC_20150317_002930	У вас есть экиперовка с прочностью менее чем 30%.
+ETC_20150317_002931	У вас есть экиперовка с прочностью 0.
 ETC_20150317_002932	This equipped item cannot be consumed.
 ETC_20150317_002933	This enhanced item cannot be consumed.
 ETC_20150317_002934	Your enhanced item will be consumed. Are you sure you want to proceed?
