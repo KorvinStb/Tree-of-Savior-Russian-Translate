@@ -249,56 +249,56 @@ QUEST_LV_0100_20150317_000248	Идти вперед, в Klaipeda.{nl}Commander U
 QUEST_LV_0100_20150317_000249	Klaipeda Guard
 QUEST_LV_0100_20150317_000250	Спасибо за то, что проделали этот путь.{nl}Если даже после того, как сам Sir Titas побывал здесь, столько всего осталось, то можете представить, что здесь творилось до этого?
 QUEST_LV_0100_20150317_000251	Mercenary Toby
-QUEST_LV_0100_20150317_000252	Do you want to do a simple task for me?{nl}I'm a known face so it will be hard for me to do it myself.
-QUEST_LV_0100_20150317_000253	If you don't want to, then you don't have to.{nl}There are plenty of people around who can do this.
-QUEST_LV_0100_20150317_000254	You passed.{nl}The strength you possess is tremendous.
-QUEST_LV_0100_20150317_000255	It's definitely worth it.{nl}Even if the King spent all his assets building the Mausoleum, its size is huge.
-QUEST_LV_0100_20150317_000256	Judging from this, these equipment are not permitted.{nl}Do not leave them lying around.{nl}
-QUEST_LV_0100_20150317_000257	Okay. Bring me more evidence that those people are making counterfeits.{nl}Do whatever it takes.
-QUEST_LV_0100_20150317_000258	I am looking for evidence of artifact forgery.{nl}Your first task will be to bring me any illegal digging tools that you find.
-QUEST_LV_0100_20150317_000259	{memo X}Of course you should show us your skills.{nl}Defeating Desert Chupacabras or Zinutes will be enough to prove yourself.
+QUEST_LV_0100_20150317_000252	Вы хотите дать мне простое задание?{nl}Я известное лицо, так что одному мне это будет сделать трудно.
+QUEST_LV_0100_20150317_000253	Но если Вы не хотите, значит и не нужно.{nl}Есть много людей вокруг, которые могут сделать это.
+QUEST_LV_0100_20150317_000254	Вы прошли.{nl}Сила, которой вы владеете, огромна.
+QUEST_LV_0100_20150317_000255	Это определенно стоит того.{nl}Даже если King потратил все свои активы на возведение Mausoleum, его размер все равно поражает.
+QUEST_LV_0100_20150317_000256	Судя по всему, данная экипировка под запретом.{nl}Не оставляйте их валяться.{nl}
+QUEST_LV_0100_20150317_000257	Ладно. Принеси мне больше доказательств того, что эти люди делают подделки.{nl}Делайте все, что нужно.
+QUEST_LV_0100_20150317_000258	Я ищу доказательства о подделке артефактов.{nl}Ваша первая задача будет заключаться в том, чтобы принести мне какие-либо незаконные инструменты, которые Вы найдете.
+QUEST_LV_0100_20150317_000259	{memo X}Конечно, вы должны показать нам свои навыки.{nl}Победа над Desert Chupacabras или Zinutes будет достаточным доказательством.
 QUEST_LV_0100_20150317_000260	Supply Officer
-QUEST_LV_0100_20150317_000261	Thank you for your help.{nl}I think this will be enough.{nl}
-QUEST_LV_0100_20150317_000262	{memo X})}{nl}If you have time, please tell our troops to assemble.{nl} If you choose not to, you may just go ahead to Klaipeda.
+QUEST_LV_0100_20150317_000261	Спасибо за вашу помощь.{nl}Я думаю, этого будет достаточно.{nl}
+QUEST_LV_0100_20150317_000262	{memo X})}{nl}Если у вас есть время, расскажите нашим войскам о сборе.{nl} Однако, если Вы не хотите, вы можете просто идти вперед, в Klaipeda.
 QUEST_LV_0100_20150317_000263	Scout
-QUEST_LV_0100_20150317_000264	Go back, it's dangerous!{nl}Kepas will soon be marching in.
-QUEST_LV_0100_20150317_000265	Oh, you're a Revelator. It must be fate that we are to fight together. {nl}Let me give you the inside scoop.
-QUEST_LV_0100_20150317_000266	You mentioned that we need to assemble, right?{nl}Help me find some missing baggages and I'll go as soon as I can.
-QUEST_LV_0100_20150317_000267	Have you found my belongings yet? I can't go back without them.
-QUEST_LV_0100_20150317_000264	{memo X}Go back, it's dangerous!{nl}Kepas will soon be marching in.
-QUEST_LV_0100_20150317_000265	Oh, you're a Revelator. It must be fate that we are to fight together. {nl}Let me give you an inside scoop.
-QUEST_LV_0100_20150317_000266	You mentioned that we need to assemble, right?{nl}Help me find some missing belongings and I'll go as soon as I can.
-QUEST_LV_0100_20150317_000267	Have you found my belongings yet? I can't go back without it.
-QUEST_LV_0100_20150317_000268	Thank you. You found it sooner than I expected.{nl}
-QUEST_LV_0100_20150317_000269	If you follow the road to the north, you will find the Search Scout.{nl}Good luck.
+QUEST_LV_0100_20150317_000264	Возвращайтесь обратно, здесь опасно!{nl}Скоро здесь пройдут Kepa.
+QUEST_LV_0100_20150317_000265	Ох, так Вы Revelator. Это должно быть судьба, что мы сражаемся вместе. {nl}Позвольте мне дать вам совок.
+QUEST_LV_0100_20150317_000266	Вы упомянули, что мы должны собрать.{nl}Помогите мне найти пропавший багаж, и я уйду, как только смогу.
+QUEST_LV_0100_20150317_000267	Вы уже нашли мои вещи? Я не могу вернуться без них.
+QUEST_LV_0100_20150317_000264	{memo X}Возвращайтесь обратно, здесь опасно!{nl}Скоро здесь пройдут Kepa.
+QUEST_LV_0100_20150317_000265	Ох, так Вы Revelator. Это должно быть судьба, что мы сражаемся вместе. {nl}Позвольте мне дать вам совок.
+QUEST_LV_0100_20150317_000266	Вы упомянули, что мы должны собрать.{nl}Помогите мне найти пропавший багаж, и я уйду, как только смогу.
+QUEST_LV_0100_20150317_000267	Вы уже нашли мои вещи? Я не могу вернуться без них.
+QUEST_LV_0100_20150317_000268	Спасибо. Вы нашли их даже раньше, чем я ожидал.{nl}
+QUEST_LV_0100_20150317_000269	Если следовать по дороге на север, вы найдете Search Scout.{nl}Удачи.
 QUEST_LV_0100_20150317_000270	Laimonas
-QUEST_LV_0100_20150317_000271	{memo X}Have you ever offered worship to the Statue?{nl}If not, I'd really recommend it.
-QUEST_LV_0100_20150317_000272	That depends on which Goddess it is.{nl}If you follow the road to the right you will find the Statue of Goddess Zemyna. 
-QUEST_LV_0100_20150317_000273	{memo X}I do worry that the monsters might harm the Goddess Statue.
-QUEST_LV_0100_20150317_000274	I am happy that the statue is unharmed.{nl}The monsters here know to fear the Goddess.{nl}
-QUEST_LV_0100_20150317_000275	Go down the Shadow Forest Road and you should arrive at Klaipeda shortly.{nl}Well then, may the blessings of the Goddess be with you.
-QUEST_LV_0100_20150317_000276	{memo X}Please do me a favor if you are headed to Klaipeda.{nl}It's not easy to go back and forth from Klaipeda because of the Infrorocktors nowadays.
-QUEST_LV_0100_20150317_000277	Maybe taking care of the statues will make the Goddesses return sooner...
-QUEST_LV_0100_20150317_000278	{memo X}Follow the road on the left at the camp crossroads.{nl}{-scp SCR_DIALOG_NPC_ANIM(
-QUEST_LV_0100_20150317_000279	)} You'll meet the troops right away.
-QUEST_LV_0100_20150317_000280	)}Alright, good job.{nl}You'll arrive at Klaipeda shortly if you follow the Shadow Forest Road.{nl}Don't forget to drop by Sir Uska.
+QUEST_LV_0100_20150317_000271	{memo X}Вы когда-либо отдавали дань уважения Statue?{nl}Если нет, я бы очень рекомендовал это сделать.
+QUEST_LV_0100_20150317_000272	Это зависит от того, какой богине она принадлежит.{nl}Если вы проследуете по дороге направо, то вы найдете Statue of Goddess Zemyna. 
+QUEST_LV_0100_20150317_000273	{memo X}Я действительно волнуюсь, что монстры могут нанести вред Goddess Statue.
+QUEST_LV_0100_20150317_000274	Я рад, что статуя невредима.{nl}Даже монстры бояться богиню.{nl}
+QUEST_LV_0100_20150317_000275	Идите вниз к Shadow Forest Road и вы доберетесь до Klaipeda очень быстро.{nl}Пусть благословение Богини будет с тобой.
+QUEST_LV_0100_20150317_000276	{memo X}Пожалуйста, сделайте мне одолжение, если вы напрляетесь в Klaipeda.{nl}Сегодня нелегко пройти в Klaipeda, из-за Infrorocktors.
+QUEST_LV_0100_20150317_000277	Возможно забота о статуях позволит Богиням вернуться быстрее.
+QUEST_LV_0100_20150317_000278	{memo X}Следуйте по дороге слева к лагерю на перекрестке.{nl}{-scp SCR_DIALOG_NPC_ANIM(
+QUEST_LV_0100_20150317_000279	)} Вы сразу встретите войска.
+QUEST_LV_0100_20150317_000280	)}Ладно, хорошая работа.{nl}Ты дойдешь в Klaipeda гораздо быстрее если пойдешь через Shadow Forest Road.{nl}Не забудьте заглянуть к Sir Uska.
 QUEST_LV_0100_20150317_000281	Battle Commander
-QUEST_LV_0100_20150317_000282	I will have my men notify the troops to assemble.{nl}You may return to Sir Titas to let him know.
-QUEST_LV_0100_20150317_000283	The errand shouldn't be anything too difficult.{nl}If you don't want to help, I'll send you off to Klaipeda right away.
+QUEST_LV_0100_20150317_000282	Мне нужно чтобы мои ребята уведомили войска о сборе.{nl}Вы можете вернтуься к Sir Titas и дать ему знать об этом.
+QUEST_LV_0100_20150317_000283	Это поручение не должно быть слишком сложным для Вас.{nl}Но, даже если вы не захотите помочь, я отправлю Вас в Klaipeda немедленно.
 QUEST_LV_0100_20150317_000284	Search Scout
-QUEST_LV_0100_20150317_000285	{memo X}It sure is a problem.{nl}I didn't know Kepas could grow that big.
-QUEST_LV_0100_20150317_000286	Shouldn't a Revelator be heading to Klaipeda instead of hanging around here?
-QUEST_LV_0100_20150317_000287	{memo X}I feel so relieved to be stationed in the Western Woods.{nl}There are some places where you'd rather die than be stationed.
-QUEST_LV_0100_20150317_000288	{memo X}When you see a Goddess Statue, try offering your worship.{nl}Surely something nice will happen.
-QUEST_LV_0100_20150317_000289	This is a dangerous area. What are you doing here?
-QUEST_LV_0100_20150317_000290	Thank you.{nl}I should report the roaming Large Kepa to Titas.
-QUEST_LV_0100_20150317_000291	{memo X}Weird... That is not a type of monster you'd face in a place like this.{nl}It must be hard to travel around.
-QUEST_LV_0100_20150317_000292	{memo X}Assemble already?{nl}That's tough. There's still a pile of missions.
-QUEST_LV_0100_20150317_000293	{memo X}First, defeat the Hanamings around here.{nl}Then, collect their petals.
-QUEST_LV_0100_20150317_000294	Even if this wasn't about the Revelators, but the Goddesses returning instead,{nl}I wouldn't abandon my mission before it was over.
-QUEST_LV_0100_20150317_000295	{memo X}Yes. This should be enough.{nl}Here is a pill that will restore your stamina instantly. I have enough of it so I will give you this as a gift.{nl}
-QUEST_LV_0100_20150317_000296	{memo X}Stamina is consumed when you move.{nl}You can recover stamina by destroying a Tree Root Crystal or by resting.{nl}But you might not have time for that when you are being chased by monsters.{nl}That's when this pill comes in handy.
-QUEST_LV_0100_20150317_000297	{memo X}I heard news from my men and was becoming worried.{nl}All is well if it ended up good.
+QUEST_LV_0100_20150317_000285	{memo X}Он уверен, что это проблема.{nl}Я и не знал что Kepa могут быть такими большими.
+QUEST_LV_0100_20150317_000286	Разве Revelator не должен отправиться в Klaipeda вместо того, чтобы болтаться здесь?
+QUEST_LV_0100_20150317_000287	{memo X}Я почувствовал облегчение каогда меня назначили в Western Woods.{nl}Есть такие места, что вы скорее предпочли бы умереть, чем находится там.
+QUEST_LV_0100_20150317_000288	{memo X}Когда увидите Goddess Statue, попробуйте отдать им дань уважения.{nl}Я уверен, обязательно произойдет что-то хорошее.
+QUEST_LV_0100_20150317_000289	Это опасная зона. Что ты здесь делаешь?
+QUEST_LV_0100_20150317_000290	Спасибо тебе.{nl}Я должен доложить Titas о появлении Large Kepa.
+QUEST_LV_0100_20150317_000291	{memo X}Странно... Это не то место, где можно столкнуться с подобным монстром.{nl}Должно быть тяжело путешествовать по округе.
+QUEST_LV_0100_20150317_000292	{memo X}Уже сбор?{nl}Это будет тяжело. У нас еще куча миссий.
+QUEST_LV_0100_20150317_000293	{memo X}Сначала, убейте Hanamings недалеко отсюда.{nl}Затем, соберите их petals.
+QUEST_LV_0100_20150317_000294	Даже если речь шла не о Revelators, то о возвращении Богинь наверняка.{nl}Я не откажусь от своей миссиидо тех пор, пока все не закончится.
+QUEST_LV_0100_20150317_000295	{memo X}Да. Этого должно хватить.{nl}Вот таблетки, которые мгновенно восстановят Вашу выносливость. У меня их вполне достаточно, так что я даю их тебе в качестве подарка.{nl}
+QUEST_LV_0100_20150317_000296	{memo X}Выносливость расходуется при перемещении.{nl}Вы можете восстановить выносливость уничтожив Tree Root Crystal или просто отдохнув.{nl}Но у Вас может не быть времени на это, когда за Вами гонятся монстры.{nl}Вот когда эта таблетка очень пригодится.
+QUEST_LV_0100_20150317_000297	{memo X}Я услышал новости от моих людей и начал волноваться.{nl}Все хорошо, что хорошо кончается.
 QUEST_LV_0100_20150317_000298	Klaipeda Resident
 QUEST_LV_0100_20150317_000299	)} {nl}When do you think the Goddess is coming back?{nl}Even if I ask the Revelators, all they say is that they must go to Klaipeda...
 QUEST_LV_0100_20150317_000300	Are you a Revelator?{nl}Didn't the Goddess appear in your dream?{nl}I heard so from the soldiers.
