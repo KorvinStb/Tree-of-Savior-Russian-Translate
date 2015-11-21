@@ -300,56 +300,56 @@ QUEST_LV_0100_20150317_000295	{memo X}Да. Этого должно хватит
 QUEST_LV_0100_20150317_000296	{memo X}Выносливость расходуется при перемещении.{nl}Вы можете восстановить выносливость уничтожив Tree Root Crystal или просто отдохнув.{nl}Но у Вас может не быть времени на это, когда за Вами гонятся монстры.{nl}Вот когда эта таблетка очень пригодится.
 QUEST_LV_0100_20150317_000297	{memo X}Я услышал новости от моих людей и начал волноваться.{nl}Все хорошо, что хорошо кончается.
 QUEST_LV_0100_20150317_000298	Klaipeda Resident
-QUEST_LV_0100_20150317_000299	)} {nl}When do you think the Goddess is coming back?{nl}Even if I ask the Revelators, all they say is that they must go to Klaipeda...
-QUEST_LV_0100_20150317_000300	Are you a Revelator?{nl}Didn't the Goddess appear in your dream?{nl}I heard so from the soldiers.
+QUEST_LV_0100_20150317_000299	)} {nl}Как вы думаете, когда Богиня вернется?{nl}Даже если я спрашиваю у Revelators, все говорят, что они должны идти в Klaipeda...
+QUEST_LV_0100_20150317_000300	Так Вы Revelator?{nl}Являлась ли Вам во сне Богиня?{nl}Я слышал о таком от солдат.
 QUEST_LV_0100_20150317_000301	Trooper
-QUEST_LV_0100_20150317_000302	I wonder what the Goddesses are doing...
-QUEST_LV_0100_20150317_000303	{memo X}Thank you for making your way here.{nl}I am Uska, the Knight Commander in charge of Siauliai and Klaipeda.
-QUEST_LV_0100_20150317_000304	{memo X}The Bishop also dreamed of a revelation.{nl}He told me to send the Revelators to the Crystal Mine.{nl}
-QUEST_LV_0100_20150317_000305	Let me know when you are ready to go to the Crystal Mine.{nl}I'll tell you the location and how to get in.
-QUEST_LV_0100_20150317_000306	The bishop told us to send the Revelators to the Crystal Mine.{nl}He said the Goddess told him to do so.{nl}
-QUEST_LV_0100_20150317_000307	{memo X}But the Miners' Village is at war with the Vubbes {nl}and its entrance is limited to authorized people only. Knight Aras is the one managing troops in the East Siauliai Woods. {nl}You should talk to him.
-QUEST_LV_0100_20150317_000308	{memo X}Monsters have been around for a long time, {nl}but they only started becoming violent four years ago. {nl}The ones that were most affected would be the plant types. They did not exist before.{nl}
-QUEST_LV_0100_20150317_000309	Of course, beasts were no exception.{nl}When monsters that seem to have fused with demons appeared, I thought the end was near.
+QUEST_LV_0100_20150317_000302	Интересно, что Богини сделают...
+QUEST_LV_0100_20150317_000303	{memo X}Спасибо за проделанный путь.{nl}Я Uska, Knight Commander Siauliai и Klaipeda.
+QUEST_LV_0100_20150317_000304	{memo X}Епископ также мечтал о возрождении.{nl}Он попросил меня отправлять Revelators в Crystal Mine.{nl}
+QUEST_LV_0100_20150317_000305	Дайте мне знать, когда Вы будете готовы пойти в Crystal Mine.{nl}Я расскажу Вам как туда добраться.
+QUEST_LV_0100_20150317_000306	Епископ попросил меня отправлять Revelators в Crystal Mine.{nl}Он говорил, что Богиня сказала ему сделать так.{nl}
+QUEST_LV_0100_20150317_000307	{memo X}Но Miners' Village в состоянии войны с Vubbes {nl}и ее посещение ограничено уполномоченными лицами. Knight Aras один из управляющих войсками в East Siauliai Woods. {nl}Вы должны поговорить с ним.
+QUEST_LV_0100_20150317_000308	{memo X}Монстры были вокруг в течение очень долгого времени, {nl}но нападать начали только четыре года назад. {nl}Наиболее агрессивными являются монстры растительного типа. Их раньше не существовало.{nl}
+QUEST_LV_0100_20150317_000309	Конечно, звери не стали исключением.{nl}Когда появились монстры, которые словно срослись с демонами, я думал что конец близок.
 QUEST_LV_0100_20150317_000310	Knight Aras
-QUEST_LV_0100_20150317_000311	{memo X}Aren't you hurt?{nl}I appreciate that you got rid of the Poata, because it was really reckless.
-QUEST_LV_0100_20150317_000312	{memo X}You want to get into the Crystal Mine?{nl}The Miners' Village is currently at war with the Vubbes and it's very dangerous,{nl}so I cannot permit that.
-QUEST_LV_0100_20150317_000313	{memo X}And our troops are in no condition to guard you.{nl}I'm sorry but you will have to go back.
-QUEST_LV_0100_20150317_000314	If you can't defeat the Pokubus, you'll have to give up going into the Miners' Village.
-QUEST_LV_0100_20150317_000315	{memo X}Thank you.{nl}Do not worry, I'll keep my promise.
+QUEST_LV_0100_20150317_000311	{memo X}Вы в порядке?{nl}Я благодарен за то, что вы избавились от Poata, потому что это было действительно опрометчиво.
+QUEST_LV_0100_20150317_000312	{memo X}Вы хотите попасть в Crystal Mine?{nl}Но Miners' Village в состоянии войны с Vubbes и это очень опасно,{nl}так что я не могу дать разрешение.
+QUEST_LV_0100_20150317_000313	{memo X}И наши войска пока не в состоянии охранять Вас.{nl}Я сожалею, но Вам придется вернуться.
+QUEST_LV_0100_20150317_000314	Если Вы не можете победить Pokubus, Вам придется отказаться от идеи похода в Miners' Village.
+QUEST_LV_0100_20150317_000315	{memo X}Спасибо.{nl}Не волнуйтесь, я сдержу свое обещание.
 QUEST_LV_0100_20150317_000316	Outpost Sentinel
-QUEST_LV_0100_20150317_000317	{memo X}Although I'm worried about the situation in the Miners' Village, I'm not getting used to the constant fighting and resting. If only the Chupacabras could be dealt with to some degree, we would be much more well off.
-QUEST_LV_0100_20150317_000318	Other monsters are also flooding into areas where Chupacabras live.{nl}Miners' Village is a problem on its own but there are just too many things to pay attention to.
-QUEST_LV_0100_20150317_000319	Thank you.{nl}Your assistance really helps lift our spirits.
-QUEST_LV_0100_20150317_000320	With your abilities, I have one more favor to ask.{nl}Can you help us drive out the Chupacabras in the supply camp too?
-QUEST_LV_0100_20150317_000321	The Miners' Village is a problem but the situation here isn't so good either. {nl}We have to prepare some measures before the number of monsters increase even more??
-QUEST_LV_0100_20150317_000322	You're done already?{nl}I've never seen anyone as fast as you before.
-QUEST_LV_0100_20150317_000323	I'm on a mission to find out the cause of the sudden increase in monsters in the Eastern Woods.{nl} I also act as the intermediary in supplying the Miners' Village.{nl}
-QUEST_LV_0100_20150317_000324	There are other knights out in Miners' Village. {nl}Frankly, the battle here is taking longer than we thought, as we imagined the battle would end as soon as Aras was here.
-QUEST_LV_0100_20150317_000325	{memo X}Since you're going to help, please defeat the Giant Gray Chupacabras too.{nl}They are the culprits stealing our supplies.
-QUEST_LV_0100_20150317_000326	{memo X}Giant Gray Chupacabras should appear now that you have defeated the Chupacabras.{nl}Well then, thanks for assisting.
-QUEST_LV_0100_20150317_000327	Thank you.{nl}Now I can finally get to work easily.
-QUEST_LV_0100_20150317_000328	{memo X}Finding the cause of the monsters is important,{nl}but I'm more worried about supplies not making it to the Miners' Village.
-QUEST_LV_0100_20150317_000329	The movement of Weavers in the lower areas of the stream seems suspicious.{nl}Seems like they're trying to interfere with supplies to the Miners' Village.
-QUEST_LV_0100_20150317_000330	We might have to give up our current supplies and support ourselves until the next batch of supplies arrive.
-QUEST_LV_0100_20150317_000331	Thank you.{nl}With you helping us out like this, we will not be defeated.
-QUEST_LV_0100_20150317_000332	Your next mission is to find the cause of the increasing number of monsters.{nl}Popolions have a big appetite, so I hope we can find a clue.
-QUEST_LV_0100_20150317_000333	Although the Miners' Village is in trouble, given that the situation has reached the Eastern Woods,{nl}we can't assure the safety of Klaipeda.{nl}We can just hope that Klaipeda is doing well.
+QUEST_LV_0100_20150317_000317	{memo X}Хотя я беспокоюсь о ситуации в Miners' Village, я не позволяю этому беспокойству мешать битве или отдыху. Если бы только Chupacabras стало меньше, нам было бы гораздо проще.
+QUEST_LV_0100_20150317_000318	Другие монстры также наводнили районы обитания Chupacabra.{nl}Miners' Village проблема сама по себе, но есть еще слишком много вещей, на которые нужно обратить внимание.
+QUEST_LV_0100_20150317_000319	Благодарю.{nl}Ваша помощь действительно помогает поднять наш дух.
+QUEST_LV_0100_20150317_000320	С вашими способностями, у меня есть одна просьба.{nl}Можете ли вы помочь нам изгнать Chupacabra и из лагеря снабжения?
+QUEST_LV_0100_20150317_000321	Miners' Village это проблема, но и здесь ситуация не так уж хороша. {nl}Мы должны принять некоторые меры, прежде чем количество монстров увеличиться еще больше.
+QUEST_LV_0100_20150317_000322	Вы уже справились?{nl}Я не видел никого быстрее Вас. Надо же.
+QUEST_LV_0100_20150317_000323	У меня миссия. Я должен выяснить причину внезапного увеличения монстров в Eastern Woods.{nl} Также я выступаю в качестве посредника при поставках в Miners' Village.{nl}
+QUEST_LV_0100_20150317_000324	Есть и другие рыцари в Miners' Village. {nl}Frankly, сражение здесь идет медленнее, чем мы думали. Как мы себе и представляли - битва закончилась, как только Aras появился здесь.
+QUEST_LV_0100_20150317_000325	{memo X}Если хотите помочь, убейте также Giant Gray Chupacabras.{nl}Именно они воруют наши припасы.
+QUEST_LV_0100_20150317_000326	{memo X}Giant Gray Chupacabras должна появиться теперь, когда вы победили Chupacabras.{nl}В таком случае, спасибо за помощь.
+QUEST_LV_0100_20150317_000327	Спасибо Вам.{nl}Теперь я могу наконец приступить к работе.
+QUEST_LV_0100_20150317_000328	{memo X}Найти причину появления монстров несомненно важно,{nl}но я больше беспокоюсь о припасах которые могут просто не попасть в Miners' Village.
+QUEST_LV_0100_20150317_000329	Передвижение Weavers в нижних областях, кажется крайне подозрительным.{nl}Похоже, они пытаются препятствовать поставкам в Miners' Village.
+QUEST_LV_0100_20150317_000330	Возможно, нам придется отказаться от наших текущих поставок и держаться до следующей партии.
+QUEST_LV_0100_20150317_000331	Спасибо.{nl}С Вашей помощью мы точно не проиграем.
+QUEST_LV_0100_20150317_000332	Ваша следующая миссия - найти причину увеличения числа монстров.{nl}Popolions имеют большой аппетит, поэтому я надеюсь, что мы сможем найти зацепку.
+QUEST_LV_0100_20150317_000333	Хотя Miners' Village в беде, учитывая, что ситуация достигла Eastern Woods,{nl}мы не можем обеспечить безопасность Klaipeda.{nl}Мы можем только надеяться, что в Klaipeda все хорошо.
 QUEST_LV_0100_20150317_000334	Operations Officer
-QUEST_LV_0100_20150317_000335	Were you sent by Aras?{nl}This is a piece of Vubbe clothing. Ah... I see...
-QUEST_LV_0100_20150317_000336	I think the Vubbes of the Miners' Village have made their way into the woods.{nl}Maybe that's the reason behind the abnormal surge in monsters too.{nl}
-QUEST_LV_0100_20150317_000337	I better ask Aras to search for Vubbes in other regions too.{nl}In the meantime, I would like you to take a look at the upper areas.
-QUEST_LV_0100_20150317_000338	We haven't searched the upper areas yet.{nl}Of course we should be sending troops, but I ask for your help as this is an urgent matter.
-QUEST_LV_0100_20150317_000339	You saw a Vubbe Fighter but missed it?{nl}We also got a report of Vubbe Fighter appearing in the Southern area.{nl}
-QUEST_LV_0100_20150317_000340	First, talk to the Search Scout by the bridge in the lower area of Bulvjes Farm.{nl}This will become a tedious, drawn out campaign if we let that Vubbe Fighter run loose.
-QUEST_LV_0100_20150317_000341	{memo X}So the Vubbe Fighters are the reason behind the growing number of monsters.{nl}Please find out how many Vubbe Fighters there are.{nl}
-QUEST_LV_0100_20150317_000342	Under the circumstances, it makes sense that the monsters are controlled by the Vubbe Fighters.{nl}But deep down, you just don't want to believe it.
-QUEST_LV_0100_20150317_000343	Following your report, there are no more Vubbe Fighters in these woods.{nl}
-QUEST_LV_0100_20150317_000344	{memo X}It appears the Vubbe Fighters have been defeated. {nl}I alerted the Search Scout at the Nudegi Felled Area.
+QUEST_LV_0100_20150317_000335	Тебя прислал Aras?{nl}Это кусок Vubbe clothing. Ага... Понятно...
+QUEST_LV_0100_20150317_000336	Я думаю Vubbes в Miners' Village проделали путь в лес.{nl}Возможно именно в этом причина резкого увеличения числа монстров.{nl}
+QUEST_LV_0100_20150317_000337	Я лучше попрошу Aras поискать Vubbes и в других локациях.{nl}В то же время, я бы хотел, чтобы вы взглянули на верхние локации.
+QUEST_LV_0100_20150317_000338	Мы пока не исследовали верхние зоны.{nl}Конечно мы должны посылать войска, но я прошу вашей помощи, так как это срочный вопрос.
+QUEST_LV_0100_20150317_000339	Вы видели Vubbe Fighter но упустили его?{nl}Мы также получили отчет о Vubbe Fighter появившихся в Южной зоне.{nl}
+QUEST_LV_0100_20150317_000340	Во-первых, поговорите с Search Scout у моста в нижней части Bulvjes Farm.{nl}Это станет утомительной военной кампанией, если мы позволим Vubbe Fighter свободно разгуливать.
+QUEST_LV_0100_20150317_000341	{memo X}Значит Vubbe Fighters причина растущего числа монстров.{nl}Пожалуйста, выясните сколько там Vubbe Fighters.{nl}
+QUEST_LV_0100_20150317_000342	В этих обстоятельствах логично предположить, что монстры управляются Vubbe Fighters.{nl}Но в глубине души, ты просто не хочешь в это верить.
+QUEST_LV_0100_20150317_000343	Согласно твоему отчету, в этих лесах больше нет Vubbe Fighters.{nl}
+QUEST_LV_0100_20150317_000344	{memo X}Похоже Vubbe Fighters уничтожены. {nl}Я предупредил Search Scout в Nudegi Felled Area.
 QUEST_LV_0100_20150317_000345	Supply Soldier
-QUEST_LV_0100_20150317_000346	We need Weaver Claws as a part of the supplies to be sent to Miners' Village, {nl}but we just don't have time to look for them.{nl}What do we do?
-QUEST_LV_0100_20150317_000347	Actually, it doesn't make sense for the Supply Soldier to directly retrieve the supplies.{nl}It should have come straight from Klaipeda.
-QUEST_LV_0100_20150317_000348	Thank you.{nl}Unexpected help always feels good.
+QUEST_LV_0100_20150317_000346	Нам нужны Weaver Claws как часть припасов для отправки в Miners' Village, {nl}но у нас просто нет времени искать их.{nl}Что же делать?
+QUEST_LV_0100_20150317_000347	На самом деле, это не имеет смысла для Supply Soldier, чтобы напрямую получать припасы.{nl}Он должен был прийти прямо из Klaipeda.
+QUEST_LV_0100_20150317_000348	Благодарю.{nl}Неожиданная помощь всегда приятна.
 QUEST_LV_0100_20150317_000349	In fact, everything would have been fine if the Pokubus weren't around.{nl}The Pokubus were running wild and that's why we weren't able to retrieve all the supplies.
 QUEST_LV_0100_20150317_000350	I don't know why they suddenly started to prey on the supplies.{nl}Could something be commanding them?
 QUEST_LV_0100_20150317_000351	Thank you.{nl}I envy your ability.
