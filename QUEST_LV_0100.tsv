@@ -399,56 +399,56 @@ QUEST_LV_0100_20150317_000394	Ты заставляешь меня задать�
 QUEST_LV_0100_20150317_000395	{memo X}
 QUEST_LV_0100_20150317_000396	Crystal Mine стала пристанищем Vubbes, поэтому Вам стоит убедиться что Вы состоите в группе. Желательно из пяти человек.
 QUEST_LV_0100_20150317_000397	Equipment Merchant
-QUEST_LV_0100_20150317_000398	Even at times like this, I struggle to find the best items I can. You can't go easy in terms of dealing with your customers.
-QUEST_LV_0100_20150317_000399	Monsters attack and steal from people who buy items from me. I think they know I can tell which items are good.{nl}I feel sorry for those who were attacked but it also proves that the items are worth it.
-QUEST_LV_0100_20150317_000400	The monsters never raided Klaipeda, but with Sir Uska gone, it's hard to be at ease.{nl}You have you watch out for yourself at times like this.
-QUEST_LV_0100_20150317_000401	I want to travel with a single weapon in hand like an adventurer... Yeah there's no way I could.
-QUEST_LV_0100_20150317_000402	If you listen to the soldiers, they'll use terms only they can understand to make things sound complicated.{nl}But when I ask my soldier friend, he says it's not like they are talking about anything important.
-QUEST_LV_0100_20150317_000403	Be cautious of people who sell weapons from monsters without a permit.{nl}They'll try and scam you into to buying useless things or sell you things at ridiculously high prices.
+QUEST_LV_0100_20150317_000398	Даже в такое нелегкое время, я делаю все, чтобы достать лучшие вещи которые только смогу. Ведь клиентов подводить нельзя, верно?
+QUEST_LV_0100_20150317_000399	Монстры атакуют людей, и воруют вещи, которые они у меня покупали. Я думаю они в курсе, что я могу определить, являются ли данные вещи качественными.{nl}Мне жаль тех, кто был атакован, но это также доказывает, что вещи явно того стоят.
+QUEST_LV_0100_20150317_000400	Монстры никогда не нападали на Klaipeda, но с уходом Sir Uska, я чувствую себя не в своей тарелке.{nl}В такие моменты лучше следить за собой.
+QUEST_LV_0100_20150317_000401	Я хочу путешествовать с одноручным оружием в руке, как авантюрист... Мда, это то, чего я никогда не смогу сделать.
+QUEST_LV_0100_20150317_000402	Если Вы прислушаетесь к солдатам, то поймете, что в разговоре они используют термины понятные только им самим, заставляя вещи звучать сложнее, чем они есть на самом деле.{nl}Но когда я спрашиваю своего друга, который является солдатом, о чем таком сложном они говорят, он с улыбкой объясняет мне, что говорят они в сущности о ерунде. Это раздражает.
+QUEST_LV_0100_20150317_000403	Будьте осторожны с людьми, которые без разрешения продают оружие добытое с монстров.{nl}Они попытаются всучить вам хлам, или продать вещи по сильно завышенным ценам.
 QUEST_LV_0100_20150317_000404	{memo X}Item Merchant
-QUEST_LV_0100_20150317_000405	It's the little things you forget to buy that makes you regret when you travel.{nl}Better buy enough of them when you can.
-QUEST_LV_0100_20150317_000406	I feel sorry for the injured. Can't we just get along with the monsters?
-QUEST_LV_0100_20150317_000407	{memo X}I'd rather stay safe and at peace with lower sales than have sales go up because of people worrying when the monsters might attack.
-QUEST_LV_0100_20150317_000408	I sell things that people need, but I sometimes think it would've been better if I was a healer,{nl}because that way I could be closer to the explorers to help them.
-QUEST_LV_0100_20150317_000409	I hear strange howling from the distance. Could it be the sound of the monsters?
-QUEST_LV_0100_20150317_000410	People say I'm weird and I talk too much, but I don't mind. Even if I'm really weird like they say, that doesn't mean the items I sell are weird.
+QUEST_LV_0100_20150317_000405	Эти, казалось бы, мелочи которые вы забыли купить, заставят Вас пожалеть об этом в путешествии.{nl}Лучше запасаться ими, при каждом удобном случае.
+QUEST_LV_0100_20150317_000406	Мне жаль пострадавших. Разве мы не можем просто сосуществовать с монстрами?
+QUEST_LV_0100_20150317_000407	{memo X}Я предпочел бы жить в безопасном мире, с низкими продажами, чем в мире с продажами высокими, по причине возможности нападения монстров.
+QUEST_LV_0100_20150317_000408	Я продаю вещи нужные людям, но все же иногда думаю, что было бы лучше если бы я был целителем,{nl}потому что так я мог бы быть ближе к исследователям, чтобы помочь им.
+QUEST_LV_0100_20150317_000409	Я слышу странный вой вдалеке. Может ли это быть вой монстров?
+QUEST_LV_0100_20150317_000410	Люди говорят, что я странная и я слишком много болтаю, но я не против. Даже если я действительно сумасшедшая, как они говорят, это не значит, что предметы, которые я продаю тоже странные.
 QUEST_LV_0100_20150317_000411	Blacksmith
-QUEST_LV_0100_20150317_000412	{memo X}Hello.{nl}I can help you repair items but I can't craft new ones because I don't have the materials.{nl}Go on and choose from whatever is available.
+QUEST_LV_0100_20150317_000412	{memo X}Приветствую.{nl}Я могу помочь вам отремонтировать предметы, но не могу крафтить новые, потому что у меня нет материалов.{nl}Подходите и выбирайте из того, что есть в наличии.
 QUEST_LV_0100_20150317_000413	Klaipeda Resident
-QUEST_LV_0100_20150317_000414	It's true these are tough times, but everyone is looking out for the soldiers.
-QUEST_LV_0100_20150317_000415	Aside from everything else, I want to eat till I'm full.{nl}You need to eat to have strength.
-QUEST_LV_0100_20150317_000416	Why have the Goddesses disappeared?{nl}Everyone is looking for where they've gone, but no one is asking why they've disappeared.
-QUEST_LV_0100_20150317_000417	I can't eat, sleep, or move about freely because of those monsters.{nl}In the old days, we used gather herbs or pick fruits in the Siauliai Woods you know.
-QUEST_LV_0100_20150317_000418	Everyone is talking about the war wherever you go.{nl}Like who and how much people are hurt or who's assigned to where.{nl}All the stories about the war makes me sick!
-QUEST_LV_0100_20150317_000419	I heard they will send soldiers who aren't even trained into the nest of monsters.{nl}Might as well gather the old people and make them soldiers too.
-QUEST_LV_0100_20150317_000420	My life is just a cycle of anxiety and anger.{nl}The Goddess should return soon.
-QUEST_LV_0100_20150317_000421	There are suddenly many people who have had a revelation in their dreams.{nl}Could it be a sign that something is about to happen again?{nl}
-QUEST_LV_0100_20150317_000422	The bishop of Klaipeda saw a Goddess in his dream.{nl} Did you also have such a dream, Revelator?
+QUEST_LV_0100_20150317_000414	Это правда, сейчас трудные времена, но каждый ищет выход, беря пример с солдат.
+QUEST_LV_0100_20150317_000415	Помимо всего прочего, я хочу есть до тех пор, пока во мне не останется места.{nl}Тебе нужно есть, чтобы были силы.
+QUEST_LV_0100_20150317_000416	Почему Богини исчезли?{nl}Все ищут, КУДА они ушли, но никто не спрашивает ПОЧЕМУ.
+QUEST_LV_0100_20150317_000417	Я не могу есть, спать, или передвигаться из-за этих монстров.{nl}Знаешь, а ведь раньше мы собирали травы и фрукты в Siauliai Woods.
+QUEST_LV_0100_20150317_000418	Куда ни пойди, все вокруг говорят о войне.{nl}О том, кто, где, и сколько людей пострадало. Или кого и куда назначили.{nl}От всех этих историй о войне меня уже тошнит.
+QUEST_LV_0100_20150317_000419	Я слышал, что они будут посылать солдат, которые даже не обучены прямо в обитель монстров.{nl}С таким же успехом, они могли бы призывать стариков, и тоже делать их солдатами.
+QUEST_LV_0100_20150317_000420	Моя жизнь это просто замкнутый круг, наполненный тревогой и гневом.{nl}Богиня должна вернуться как можно скорее.
+QUEST_LV_0100_20150317_000421	Там неожиданно много людей, которые видели откровение в своих снах{nl}Это может быть знак, что что-то случится опять?{nl}
+QUEST_LV_0100_20150317_000422	Епископ в Klaipeda видел Богиню в своих снах.{nl} Были ли у Вас такие сны, Revelator?
 QUEST_LV_0100_20150317_000423	Mother of a Soldier
-QUEST_LV_0100_20150317_000424	{memo X})}My son has enlisted in the Army.{nl}He said who would, if not him, at such difficult times like this.
-QUEST_LV_0100_20150317_000425	{memo X})}Monster are growing and the forest is too chaotic for people to live in.{nl}At least, Klaipeda is safe.
-QUEST_LV_0100_20150317_000426	)}Even if Klaipeda is safe, aren't the other cities in chaos?{nl}Putting aside the capital, Fedimian has totally collapsed except for the Sacred Area.
-QUEST_LV_0100_20150317_000427	{memo X})}It's a good thing that my son accomplished his dream of becoming a solder...{nl}But the monsters are rising and I'm worried he might get hurt.
-QUEST_LV_0100_20150317_000428	)}Maybe Klaipeda is where the Goddess has bestowed her blessings.{nl}I hope the blessings will also reach my son in the army.
-QUEST_LV_0100_20150317_000429	)}My husband used to be a miner. I am relieved that he isn't anymore.{nl}It would be too dangerous if the monsters raid at times like this, wouldn't it?
-QUEST_LV_0100_20150317_000430	)}Many refugees came from fallen towns.{nl}Our food supplies are running short but we still have to help each other.
-QUEST_LV_0100_20150317_000431	I may not bring in the items of the best quality, but isn't having all items necessary a skill of its own?{nl}I've got to work hard to get through tough times.
-QUEST_LV_0100_20150317_000432	{memo X}I think the best weapons and armor are the ones that you get used to over a long period time.{nl}In order to do so, you must first start by buying good items.
-QUEST_LV_0100_20150317_000433	I used to pack my things and go around traveling in the past but I guess that would be difficult now.
-QUEST_LV_0100_20150317_000434	Try using a variety of weapons. Eventually, you'll find one that fits you.
-QUEST_LV_0100_20150317_000435	The armors that suit you guarantee your safety.
-QUEST_LV_0100_20150317_000436	A single armor piece can mean the difference between life and death. Look around to see if you have everything you need.
-QUEST_LV_0100_20150317_000437	It's free to look around.
-QUEST_LV_0100_20150317_000438	Look around and see if you need anything.
-QUEST_LV_0100_20150317_000439	Look around carefully. You might find something that can help you.
-QUEST_LV_0100_20150317_000440	Sometimes, things that you just look at without any thoughts can actually fit you very well, so take a look and think about it.
-QUEST_LV_0100_20150317_000441	You can just look around. Find me anytime you need something.
-QUEST_LV_0100_20150317_000442	We have enough items, so take a look.
-QUEST_LV_0100_20150317_000443	You need good weapons and armor to prepare for the monsters. That is what I'm selling.
-QUEST_LV_0100_20150317_000444	Items I have for sale are flawless. These are all new.
-QUEST_LV_0100_20150317_000445	If you don't prepare the equipment now, you might regret it later, when you're surrounded by monsters. Have a look around when you can.
-QUEST_LV_0100_20150317_000446	I've prepared the best items I can find. The prices aren't bad either so look around.
-QUEST_LV_0100_20150317_000447	{memo X}The things I sell are good both in price and quality.
+QUEST_LV_0100_20150317_000424	{memo X})}Моего сына призвали в армию.{nl}Он сказал, кто если не он, пойдет еще в армию в такие трудные времена, как сейчас.
+QUEST_LV_0100_20150317_000425	{memo X})}Число монстров растет, и леса стали слишком опасны для живущих там людей.{nl}Ну хоть в Klaipeda безопасно.
+QUEST_LV_0100_20150317_000426	)}Даже если Klaipeda в безопасности, то что твориться в других городах?{nl}Отбросив в сторону столицы, Fedimian полностью в руинах, за исключением Sacred Area.
+QUEST_LV_0100_20150317_000427	{memo X})}Это хорошо, что мой сын исполнил свою мечту, и стал солдатом...{nl}Но число монстров растет, и я переживаю, что он может пострадать.
+QUEST_LV_0100_20150317_000428	)}Возможно Klaipeda и является тем самым местом, которое благословила Богиня.{nl}Надеюсь благословение также достигнет и моего сына в армии.
+QUEST_LV_0100_20150317_000429	)}Мой муж раньше был шахтером. И я рада что сейчас он им не является.{nl}Сейчас такая профессия особенно опасна, как вы считаете?
+QUEST_LV_0100_20150317_000430	)}Многие беженцы приехали из павших городов.{nl}Наши запасы продовольствия кончаются, но мы все еще должны помогать друг другу.
+QUEST_LV_0100_20150317_000431	Я возможно не создаю предметов высшего качества, но не имея нужных реагентов, как мне повышать собственные навыки?{nl}Мне надо усиленно трудиться, чтобы преодолеть эти трудные времена.
+QUEST_LV_0100_20150317_000432	{memo X}Я думаю, что самое лучшее оружие и доспехи те, к которым привыкаешь за долгое время обращения с ними.{nl}Для того чтобы сделать это, Вы должны начать с покупки качественной экипировки.
+QUEST_LV_0100_20150317_000433	Я упаковал свои вещи, и хотел отправиться путешествовать, но сейчас это будет сделать сложно.
+QUEST_LV_0100_20150317_000434	Попробуйте использовать различные виды оружия. В конце концов вы найдете то, которое подходит именно вам.
+QUEST_LV_0100_20150317_000435	Броня, которую вы носите - залог вашей безопасности. Не стоит ней пренебрегать.
+QUEST_LV_0100_20150317_000436	Всего одна часть брони может быть гранью между жизнью и смертью. Убедитесь, что вы одеты в полный доспех.
+QUEST_LV_0100_20150317_000437	За просмотр денег не берут.
+QUEST_LV_0100_20150317_000438	Осмотритесь, возможно что-нибудь и выберете.
+QUEST_LV_0100_20150317_000439	Только смотрите внимательнее. Возможно вы найдете то, что спасет Вам жизнь.
+QUEST_LV_0100_20150317_000440	Бывает так, что вещи, на которые Вы бы и не глянули, созданы специально для Вас. Так что смотрите хорошенько.
+QUEST_LV_0100_20150317_000441	Ну, не буду Вам мешать. Обращайтесь, если что понадобится.
+QUEST_LV_0100_20150317_000442	У нас достаточно предметов, поэтому взгляните сюда.
+QUEST_LV_0100_20150317_000443	Вам нужны качественное оружие и броня если Вы собираетесь сражаться с монстрами. Именно их я и продаю.
+QUEST_LV_0100_20150317_000444	Качество вещей, которыми я торгую, безупречно. Они все новые.
+QUEST_LV_0100_20150317_000445	Если Вы не подготовитесь к встрече с монстрами сейчас, то впоследствии можете очень сильно пожалеть об  этом. Так что не стоит лениться. Осмотритесь и выбирайте все, что Вам необходимо.
+QUEST_LV_0100_20150317_000446	Я приготовил лучшее из того что смог найти. И по привлекательным ценам. Прошу, взгляните.
+QUEST_LV_0100_20150317_000447	{memo X}Вещи, которые я продаю хороши как по цене, так и по качеству.
 QUEST_LV_0100_20150317_000448	If you have the time, take a look at the items I have for sale.
 QUEST_LV_0100_20150317_000449	I hope good items will find good owners.
 QUEST_LV_0100_20150317_000450	Yes this was originally a bustling shopping area. But everyone left as it became difficult to live here...
