@@ -599,55 +599,55 @@ QUEST_LV_0100_20150317_000594	Guardian которые забыли о своей
 QUEST_LV_0100_20150317_000595	Role of the Guardians
 QUEST_LV_0100_20150317_000596	После переработки источников питания предавших нас Guardians, мы можем вернуть их, и снова сделать частью Royal Mausoleum.
 QUEST_LV_0100_20150317_000597	Guardian's Stone Statue
-QUEST_LV_0100_20150317_000598	Guardians are corrupted with evil energy.{nl}Destroy the corrupted Guardians to stop it from spreading.
-QUEST_LV_0100_20150317_000599	The demons are trying to take over the roots of the Royal Mausoleum.{nl}If all controlling magic becomes corrupted, we can't protect the Royal Mausoleum anymore.
-QUEST_LV_0100_20150317_000600	The Guardians' corruption is spreading like a plague.{nl}We need to look for a special way to stop it.
-QUEST_LV_0100_20150317_000601	We need to destroy the corrupted Guardians that are sleeping.{nl}First, collect condensed magic from the jars nearby.
-QUEST_LV_0100_20150317_000602	I pray to the Goddess for those sleeping Guardians.
-QUEST_LV_0100_20150317_000603	We should destroy those Guardians before they awaken to the demons' commands.
-QUEST_LV_0100_20150317_000604	Destroy the Guardians using the condensed magic source.{nl}If something interferes, destroy it as well.
-QUEST_LV_0100_20150317_000605	You should destroy them before they wake up.
-QUEST_LV_0100_20150317_000606	It's very sad to listen to the commands of demons as the Guardians of the tomb.
-QUEST_LV_0100_20150317_000607	This evil is very real.{nl}It could possibly reach the deepest parts of the Royal Mausoleum.
+QUEST_LV_0100_20150317_000598	Guardians осквернены злой энергией.{nl}Разрушьте оскверненных Guardians чтобы остановить ее распространение.
+QUEST_LV_0100_20150317_000599	Демоны пытаются захватить контроль над Royal Mausoleum.{nl}Если вся контролирующая магия будет повреждена, мы не сможем защитить Royal Mausoleum.
+QUEST_LV_0100_20150317_000600	Осквернение Guardians распространяется как чума.{nl}Нам нужно отыскать способ остановить это.
+QUEST_LV_0100_20150317_000601	Мы должны уничтожить оскверненных Guardians пока они спят.{nl}Сперва соберите запасенную магию из урн неподалеку.
+QUEST_LV_0100_20150317_000602	Я молю богиню за этих спящих Guardians.
+QUEST_LV_0100_20150317_000603	Мы должны уничтожить этих Guardians, прежде чем они очнуться по приказу демонов.
+QUEST_LV_0100_20150317_000604	Уничтожь Guardians используя источник для сбора магии.{nl}Если что-то будет мешать, уничтожить его.
+QUEST_LV_0100_20150317_000605	Вы должны уничтожить их, прежде чем они проснуться.
+QUEST_LV_0100_20150317_000606	Очень грустно видеть как подчиняются командам демонов Guardians этой гробницы.
+QUEST_LV_0100_20150317_000607	Это зло очень могущественно.{nl}Оно могло достигнуть самых глубин Royal Mausoleum.
 QUEST_LV_0100_20150317_000608	Royal Mausoleum Blueprint
-QUEST_LV_0100_20150317_000609	If the evil presence gets too close to the Goddess' revelation, the Guardians are programmed to destroy the Royal Mausoleum.
-QUEST_LV_0100_20150317_000610	The evil presence is getting close to the Goddess' revelation.{nl}But it will never get the revelation.{nl}
-QUEST_LV_0100_20150317_000611	Revelator, go and get the source of the Royal Mausoleum's power from the Guardians.
-QUEST_LV_0100_20150317_000612	It was prepared to protect against beings that humans could not stand against.
-QUEST_LV_0100_20150317_000613	Pour the source of the Royal Mausoleum's power into the jars.{nl}It will create a false revelation as a decoy.{nl}
-QUEST_LV_0100_20150317_000614	The evil presence will never get the revelation.
-QUEST_LV_0100_20150317_000615	The evil presence has obtained a false revelation.{nl}How foolish of it.{nl}
-QUEST_LV_0100_20150317_000616	Put the Guardian's will into this jar and go to the last Guardian.{nl}It will give you the power to destroy the evil presence.
-QUEST_LV_0100_20150317_000617	The evil presence will never get the Goddess' revelation.
-QUEST_LV_0100_20150317_000618	To have Guardians perform their mission, you need to correct the distorted control magic.
-QUEST_LV_0100_20150317_000619	If the source of the Royal Mausoleum's power is corrupted, the Guardians will lose their mission.{nl}You can purify the origins of Royal Mausoleum's power by lighting up the stone lanterns with the burning stone that is inside of a Guardian.
+QUEST_LV_0100_20150317_000609	Если присутствие зла начинает ощущаться слишком близко от откровения Богини, Guardians запрограммированы на уничтожение Royal Mausoleum.
+QUEST_LV_0100_20150317_000610	Присутствие зла начинает ощущаться слишком близко от откровения Богини.{nl}Но зло никогда не получит откровение.{nl}
+QUEST_LV_0100_20150317_000611	Revelator, иди и достань источник мощи Royal Mausoleum's у Guardians.
+QUEST_LV_0100_20150317_000612	Он был подготовлен к защите против существ, перед которыми не могли устоять люди.
+QUEST_LV_0100_20150317_000613	Наполни источник силы Royal Mausoleum's заполнив урны.{nl}Это создаст ложное откровение в качестве приманки.{nl}
+QUEST_LV_0100_20150317_000614	Зло никогда не получит откровение.
+QUEST_LV_0100_20150317_000615	Зло получило ложное откровение.{nl}Как глупо.{nl}
+QUEST_LV_0100_20150317_000616	Помести волю Guardian's в эту урну, и отправляйся к последнему Guardian.{nl}Он даст вам силу, чтобы уничтожить зло.
+QUEST_LV_0100_20150317_000617	Зло никогда не получит откровение Богини.
+QUEST_LV_0100_20150317_000618	Чтобы Guardians выполняли свои защитные функции, Вам нужно скорректировать управляющие чары, что были дестабилизированы.
+QUEST_LV_0100_20150317_000619	Если источник силы Royal Mausoleum's будет захвачен, Guardians забудут о своей миссии.{nl}Вы можете очистить исток силы Royal Mausoleum's зажигая каменные обелиски с помощью воспламеняющего камня, который находится внутри Guardian.
 QUEST_LV_0100_20150317_000620	Royal Mausoleum Magic Suppressor Manual
 QUEST_LV_0100_20150317_000621	{memo X}
-QUEST_LV_0100_20150317_000622	The demons have cut off the source of magic.{nl}We need you to gather magical power from the nearby Guardians.
-QUEST_LV_0100_20150317_000623	Good.{nl}Now, about the lack of magical power.
-QUEST_LV_0100_20150317_000624	I will open the way to the problem.{nl}Restore our magical power by reigniting the stone lantern of the Royal Mausoleum.
-QUEST_LV_0100_20150317_000625	When the suppressed power flows yet again, the Guardians will regain their reason.{nl}But that will take a long time.
-QUEST_LV_0100_20150317_000626	Abnormal Guardians are attacking the magical container.{nl}Protect the magical container until the suppressed power flows again.
-QUEST_LV_0100_20150317_000627	The magical container is like the heart of the Royal Mausoleum.{nl}We can never let it be destroyed.
-QUEST_LV_0100_20150317_000628	Order will surely return to this place.{nl}But it will take a long time.
-QUEST_LV_0100_20150317_000629	An evil energy has condensed everywhere in the Royal Mausoleum due to the current suppressed power.{nl}Find and remove the corrupted lumps.
-QUEST_LV_0100_20150317_000630	The Royal Mausoleum was designed perfectly.{nl}But the demons' plan seems beyond perfect.
-QUEST_LV_0100_20150317_000631	Our Guardians are under their control, and even do their mission.{nl}This is our failure.
-QUEST_LV_0100_20150317_000632	Evil energy has corrupted even the stone lanterns which were the origins of magical power.{nl}Destroy the corrupted stone lanterns to stop the spread of corruption.
-QUEST_LV_0100_20150317_000633	An evil energy is pervading the Royal Mausoleum.{nl}We can no longer remain idle.
-QUEST_LV_0100_20150317_000634	It is no longer corrupted.
+QUEST_LV_0100_20150317_000622	Демоны перекрыли источник магии.{nl}Мы нуждаемся в Вас, чтобы собрать магическую силу из ближайших Guardians.
+QUEST_LV_0100_20150317_000623	Хорошо.{nl}Теперь, по поводу отсутствия магической силы.
+QUEST_LV_0100_20150317_000624	Я открою путь к проблеме.{nl}Восстанови нашу магическую силу путем зажигания каменных обелисков в Royal Mausoleum.
+QUEST_LV_0100_20150317_000625	Когда магическая сила потечет вновь, Guardians снова вспомнят отданные им приказы.{nl}Но на это уйдет много времени.
+QUEST_LV_0100_20150317_000626	Захваченные Guardians атакуют контейнеры - вместилище магии.{nl}Защищай контейнеры до тех пор, пока они снова не наполнятся силой.
+QUEST_LV_0100_20150317_000627	Магические контейнеры являются своеобразным сердцем Royal Mausoleum.{nl}Мы не можем допустить их уничтожения.
+QUEST_LV_0100_20150317_000628	Порядок обязательно вернется в это место.{nl}Но это займет длительное время.
+QUEST_LV_0100_20150317_000629	Злая энергия скапливается повсюду в Royal Mausoleum. Это происходит из-за подавления нашей силы.{nl}Найди и уничтожь поврежденные лампы.
+QUEST_LV_0100_20150317_000630	Royal Mausoleum был спроектирован идеально.{nl}Но демонический план - за гранью идеального.
+QUEST_LV_0100_20150317_000631	Наши Guardians находятся под их контролем, и делают то что им нужно.{nl}Это наша ошибка.
+QUEST_LV_0100_20150317_000632	Злая энергия испортила даже каменные фонари, которые были истоком магической силы.{nl}Уничтожить поврежденные каменные фонари, чтобы остановить распространение зла.
+QUEST_LV_0100_20150317_000633	Зло пронизывает весь Royal Mausoleum.{nl}Мы не можем больше бездействовать.
+QUEST_LV_0100_20150317_000634	Он больше не поврежден.
 QUEST_LV_0100_20150317_000635	Royal Mausoleum Document
-QUEST_LV_0100_20150317_000636	Wheelen's mark gives us power to face against the forces of evil.
-QUEST_LV_0100_20150317_000637	Venucelos are very brave and loyal.{nl}But, if their loyalty is to the enemies, they are worthless.{nl}The dogs who can't protect the Royal Mausoleum will lose the leash with the king's name on it.
-QUEST_LV_0100_20150317_000638	Great King Zachariel was proud to create the gigantic Guardians.{nl}He even put secret treasures inside of them, so that only the one who destroys these Guardians could get them.
-QUEST_LV_0100_20150317_000639	The forces of evil will never reach the Goddess' revelation.
+QUEST_LV_0100_20150317_000636	Wheelen's дает нам силу сражаться со злом лицом к лицу.
+QUEST_LV_0100_20150317_000637	Venucelos очень храбры и преданны.{nl}Но если их преданность - это преданность врагу, они бесполезны.{nl}Псы, которые не могут защитить Royal Mausoleum потеряют ошейник с именем короля на нем.
+QUEST_LV_0100_20150317_000638	Great King Zachariel гордился созданием Guardians.{nl}Он даже положил тайные сокровища внутри них, таким образом, только тот кто разрушит Guardians сможет добраться до них.
+QUEST_LV_0100_20150317_000639	Силы зла никогда не получат откровение Богини.
 QUEST_LV_0100_20150317_000640	Coben
-QUEST_LV_0100_20150317_000641	I am looking for my brother.{nl}If you can help me, I may give you a reward.
-QUEST_LV_0100_20150317_000642	He was a really fantastic person.{nl}I can't imagine myself being like him.
-QUEST_LV_0100_20150317_000643	Something is between the pages of this diary.{nl}A blueprint.. and oh, my brother had recorded a few things here.
-QUEST_LV_0100_20150317_000644	I came here to look for my brother, but I am not as brave as he was.{nl}I want you to take a look at his gravestone's writing on my behalf.
-QUEST_LV_0100_20150317_000645	Yes. My brother was a thief.{nl}My brother used to come to our shop once in a few years and tell us stories about his adventures.
-QUEST_LV_0100_20150317_000646	So he challenged the Archmage Tower?{nl}That's my brother! He could certainly do that.{nl}
+QUEST_LV_0100_20150317_000641	Я ищу своего брата.{nl}Если Вы сможете помочь мне, я Вас вознагражу.
+QUEST_LV_0100_20150317_000642	Он был действительно удивительным человеком.{nl}Я не могу представить себя, похожим на него.
+QUEST_LV_0100_20150317_000643	Что-то есть между страницами этого дневника.{nl}Копирка. И, хм... мой брат записал здесь кое-что.
+QUEST_LV_0100_20150317_000644	Я приехал сюда, чтобы отыскать моего брата, но я не такой смелый как он.{nl}Я хочу, чтобы вы посмотрели на его надгробие, написанное от моего имени.
+QUEST_LV_0100_20150317_000645	Да. Мой брат был вором.{nl}Мой брат приходил к нам в магазин раз в несколько лет, и рассказывают нам о своих приключениях.
+QUEST_LV_0100_20150317_000646	Поэтому он вызвал Archmage Tower?{nl}Это мой брат! Это определенно в его духе.{nl}
 QUEST_LV_0100_20150317_000647	The Mage Tower was a fortress that demons could not even try to approach.
 QUEST_LV_0100_20150317_000648	We should look for the next gravestone.{nl}If the writing can't be seen clearly, rub it with Cockatrice Fat.
 QUEST_LV_0100_20150317_000649	Mage Tower.. Is there anything to steal there?
