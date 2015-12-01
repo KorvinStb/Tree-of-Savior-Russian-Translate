@@ -548,58 +548,58 @@ QUEST_LV_0100_20150317_000543	Я уловил запах Biteregina.{nl}Я ра�
 QUEST_LV_0100_20150317_000544	Хорошо. Скрытая дверь в святилище теперь открыта, и вы можете войти в нее.{nl}Вы увидите одну из двух печатей, защищающих наследие Great King Zachariel.
 QUEST_LV_0100_20150317_000545	Теперь, мы просто должны увидеть Great King Zachariel's который спит вечным сном.{nl}Это была настоящая честь для меня - встретиться с вами.
 QUEST_LV_0100_20150317_000546	Дело сделано.{nl}Morkus ждет вас в Overlong Bridge Valley. Вы должны поспешить.
-QUEST_LV_0100_20150317_000547	There are people who are after the Great King's inheritance.{nl}If they weren't sealed, those people would have taken them by now.
-QUEST_LV_0100_20150317_000548	{memo X}Because of that, a few disciples have died.{nl}But, that's strange. It seems that it never happened.
-QUEST_LV_0100_20150317_000549	There is Gustas and then there is my senior.{nl}That means I am the youngest? No..
-QUEST_LV_0100_20150317_000550	Gustas is proud to protect the inheritance of Zachariel.{nl}I wonder what he's going to do after he relinquishes that position.
-QUEST_LV_0100_20150317_000551	How many things are hiding in this canyon?{nl}More of king's inheritance will be here right?
-QUEST_LV_0100_20150317_000552	According to the old records, the king erased the stonemason's memories using magic to protect the Royal Mausoleum.{nl}I think it's amazing that he erased only those memories.
+QUEST_LV_0100_20150317_000547	Есть люди, которые наследовали после Great King's.{nl}Если бы они не были запечатаны, эти люди уже давно взяли бы их.
+QUEST_LV_0100_20150317_000548	{memo X}Из-за этого, несколько последователей умерли.{nl}Но, вот что странно. Такое ощущение, что этого никогда не происходило.
+QUEST_LV_0100_20150317_000549	Есть Gustas и есть тот, кто старше меня.{nl}Получается, я младший? Нет..
+QUEST_LV_0100_20150317_000550	Gustas гордится тем, что защищает наследие Zachariel.{nl}Интересно, что он собирается делать после того, как откажется от этой должности.
+QUEST_LV_0100_20150317_000551	Как много тайн скрывает это ущелье?{nl}Большая часть наследия будет именно там, верно?
+QUEST_LV_0100_20150317_000552	Согласно старым записям, король стер каменотесам воспоминания с помощью магии, чтобы защитить Royal Mausoleum.{nl}Я считаю удивительным тот факт, что он смог стереть только определенные воспоминания.
 QUEST_LV_0100_20150317_000553	Liaison Officer Nian
-QUEST_LV_0100_20150317_000554	You saw that, right? That's why I told you not to touch it.{nl}Because of this, we received an order to withdraw from this place.{nl}
-QUEST_LV_0100_20150317_000555	Well, if I am to be involved in this, can you at least do me a favor?{nl}Tell Adelle at the Excavation Team Camp to watch out for these kind of stones.
+QUEST_LV_0100_20150317_000554	Вы видели, да? Вот почему я говорил Вам не трогать это.{nl}Именно поэтому, мы получили приказ уйти из этого места.{nl}
+QUEST_LV_0100_20150317_000555	Ну, если мне предстоит участвовать в этом, то можешь сделать мне одолжение?{nl}Передай Adelle в Excavation Team Camp чтобы присматривала за этими камнями.
 QUEST_LV_0100_20150317_000556	{memo X}
 QUEST_LV_0100_20150317_000557	Historian Adelle
-QUEST_LV_0100_20150317_000558	A stone? I know of it.{nl}Do you want to to know what kind of stone it is?
-QUEST_LV_0100_20150317_000559	Monsters suddenly became violent and started attacking us.{nl}This is not an ordinary thing.
-QUEST_LV_0100_20150317_000560	This will be enough.{nl}Evil power... I'm certain that the demons are planning something.
-QUEST_LV_0100_20150317_000561	Now I have a reliable ally.{nl}You can get them from the nearby Hogmas. I'm counting on you.
+QUEST_LV_0100_20150317_000558	Камень? Да, я знаю об этом.{nl}Вы хотите знать, что это за камень?
+QUEST_LV_0100_20150317_000559	Монстры вдруг стали агрессивными и начали на нас нападать.{nl}Это не совсем обычный случай.
+QUEST_LV_0100_20150317_000560	Этого будет достаточно.{nl}Злые силы... я уверена, что демоны что-то замышляют.
+QUEST_LV_0100_20150317_000561	Теперь у меня есть надежный союзник.{nl}Вы можете достать их вблизи Hogmas. Я расчитываю на Вас.
 QUEST_LV_0100_20150317_000562	Archaeologist Friedka
-QUEST_LV_0100_20150317_000563	I'm looking for a certain unique stone pillar. But as a scholar, getting it is beyond my skill.{nl}If you help me, you will be handsomely rewarded. Are you interested?
-QUEST_LV_0100_20150317_000564	I know that we received an order to withdraw, but know this,{nl}the reward will be well worth your time. You won't regret it.
-QUEST_LV_0100_20150317_000565	Okay. First collect amulets from the Hogmas.{nl}After that, put those amulets on the stone pillar at the bottom of Geltonas Highland.
-QUEST_LV_0100_20150317_000566	We have to get out of here quickly before something bigger and worse finds us.{nl}Well, so far so good, but coming in so far is not without danger.{nl}I hope the kingdom pays more attention to rescuing people than they do to these kinds of experiments.
-QUEST_LV_0100_20150317_000567	Are you asking me how come a technician is at a place like this?{nl}As an advisor, of course. {nl} You'll need a technician like me to find out how this gigantic structure stood still for hundreds of years.
-QUEST_LV_0100_20150317_000568	Looking at equations is one thing, but being out here...{nl}We will find the true nature of this place soon enough.
-QUEST_LV_0100_20150317_000569	According to this map, the thing we are looking for is at Stone Pillar Hill.{nl}Alright then. Would you please make a rubber copy of it?{nl}{nl}
-QUEST_LV_0100_20150317_000570	It would be best if I went there.{nl}Too bad my body isn't what it used to be though.
-QUEST_LV_0100_20150317_000571	Well done!{nl}I should get out of here since I got what I wanted.{nl}There is a mark here that was ruined by magic. I wonder who did it...
-QUEST_LV_0100_20150317_000572	I'll get out of here now.{nl}Let's go somewhere safe to continue our research.{nl}
-QUEST_LV_0100_20150317_000573	By the way, why are these stones acting like this?
-QUEST_LV_0100_20150317_000574	I'm sorry, I don't quite trust you yet.{nl}Come back when you have some more experience.
-QUEST_LV_0100_20150317_000575	I just saw those villagers being taken away, and yet I could do nothing. I can't accept that.
-QUEST_LV_0100_20150317_000576	Belief in yourself. Endless confidence. {nl} These are the most important things when projecting yourself in reality. {nl} That is the nature of Psychokino and the power that moves the world.
-QUEST_LV_0100_20150317_000577	A Linker is someone who connects people with ropes of Mana.{nl}How strong the connection is depends on the quality of Mana.
+QUEST_LV_0100_20150317_000563	Я ищу один уникальный каменный столб. Но как ученый понимаю, что достать его выше моего мастерства.{nl}Если Вы поможете мне, то будете щедро вознаграждены. Интересуетесь?
+QUEST_LV_0100_20150317_000564	Я знаю, что мы получили приказ отступать, но помни{nl}награда будет равноценна затраченому Вами времени. Вы не пожалеете.
+QUEST_LV_0100_20150317_000565	Хорошо. Сперва соберите амулеты у Hogmas.{nl}После этого, положить амулеты на каменный столб в нижней части Geltonas Highland.
+QUEST_LV_0100_20150317_000566	Нужно убираться отсюда как можно скорее, пока за нами не пришло что-то намного больше и страшнее.{nl}Ну, пока все хорошо, но опасность все еще есть.{nl}Я все же надеюсь, что королевство уделит больше внимания спасению людей, а не проведению подобного рода экспериментов.
+QUEST_LV_0100_20150317_000567	Ты спрашиваешь меня, что техник делает в таком месте?{nl}Консультирую конечно. {nl} Вам потребуется технический специалист вроде меня, чтобы узнать, как это гигантское сооружение простояло сотни лет.
+QUEST_LV_0100_20150317_000568	Делать расчеты это одно, но находиться здесь самому...{nl}Мы узнаем истинную природу этого места достаточно скоро.
+QUEST_LV_0100_20150317_000569	Согласно этой карте, вещь которую мы ищем, находится в Stone Pillar Hill.{nl}Хорошо. Не могли бы Вы в таком случае сделать копию?{nl}{nl}
+QUEST_LV_0100_20150317_000570	Было бы лучше, если бы я пошел туда.{nl}Жаль что я уже не в такой хорошей форме как раньше.
+QUEST_LV_0100_20150317_000571	Отлично!{nl}Я должен выбираться отсюда, так как я получил то, что хотел.{nl}Здесь есть следы, указывающие что тут поработали магией. Интересно, кто это сделал...
+QUEST_LV_0100_20150317_000572	Я ухожу прямо сейчас.{nl}Пойдем куда-нибудь в безопасное место, чтобы продолжить наши исследования.{nl}
+QUEST_LV_0100_20150317_000573	Кстати, почему эти камни так себя ведут?
+QUEST_LV_0100_20150317_000574	Извините, но я еще не вполне Вам доверяю.{nl}Возвращайтесь когда наберетесь опыта.
+QUEST_LV_0100_20150317_000575	Я просто смотрел как селян уводят, и не мог ничего с этим поделать. Не могу себя простить за это.
+QUEST_LV_0100_20150317_000576	Вера в себя. Бесконечное доверие. {nl} Это самые важные вещи при проецировании себя в реальность. {nl} Такова природа Psychokino и сила, которая движет миром.
+QUEST_LV_0100_20150317_000577	Linker - это тот, кто связывает людей канатами маны.{nl}Насколько сильна будет связь, зависит от качества маны.
 QUEST_LV_0100_20150317_000578	Cataphract Master
-QUEST_LV_0100_20150317_000579	Cataphracts have the power to charge though any enemies that block their way.{nl}They are brave warriors whom fight on the front lines.
-QUEST_LV_0100_20150317_000580	May I help you? {nl}Fortunately, we have some potions left in stock.
-QUEST_LV_0100_20150317_000581	Looking for some good equipment? {nl} I have prepared the best ones available. {nl} Look around, the prices aren't bad either.
-QUEST_LV_0100_20150317_000582	Oh, this anvil is my small gift to you for saving me. {nl} It's a useful item that can upgrade your equipment. {nl}
-QUEST_LV_0100_20150317_000583	Well then, see you in the mines.
+QUEST_LV_0100_20150317_000579	Cataphracts имеют силы для прорыва сквозь любых врагов преграждающих им путь.{nl}Они храбрые воины, которые ведут свой бой на передовой линии.
+QUEST_LV_0100_20150317_000580	Могу ли я Вам помочь? {nl}К счастью, у нас есть некоторые зелья в запасе.
+QUEST_LV_0100_20150317_000581	Ищете качественную экипировку? {nl} Я подготовил самое лучшее. {nl} Осмотритесь, цены также неплохи.
+QUEST_LV_0100_20150317_000582	Ох, эта наковальня - это маленький подарок тебе за мое спасение. {nl} Полезная вещь, с помощью которой Вы сможете улучшить свою экипировку. {nl}
+QUEST_LV_0100_20150317_000583	Ну что же, тогда увидимся в шахтах.
 QUEST_LV_0100_20150317_000584	Miners' Village Mayor
 QUEST_LV_0100_20150317_000585	{memo X}
 QUEST_LV_0100_20150317_000586	Goddess Saule
-QUEST_LV_0100_20150317_000587	{memo X}To retrieve the revelation, please go to Fallen Worry Forest.{nl}Now is our chance, as the Demon Lord Bramble is trying to recover his power.
+QUEST_LV_0100_20150317_000587	{memo X}Чтобы получить откровение, пожалуйста, идите в Fallen Worry Forest.{nl}У нас есть шанс, пока Demon Lord Bramble пытается восстановить свои силы.
 QUEST_LV_0100_20150317_000588	Royal Mausoleum Foundation Stone
-QUEST_LV_0100_20150317_000589	I pass my words to the Revelator who comes here.{nl}I, the Great King Zachariel, sleep here to protect the goal of the Goddess. 
-QUEST_LV_0100_20150317_000590	If the evil energy attack this place, please protect this place by waking the sleeping Guardians.{nl}{nl}
+QUEST_LV_0100_20150317_000589	Эти слова адресованы Revelator, тому кто пришел сюда.{nl}Я, Great King Zachariel, сплю здесь для защиты врат Богини. 
+QUEST_LV_0100_20150317_000590	Если зло атакует это место, пожалуйста защитите его, разбудив спящих Guardians.{nl}{nl}
 QUEST_LV_0100_20150317_000591	Royal Mausoleum Cube Manual
-QUEST_LV_0100_20150317_000592	A Guardian who is corrupted by evil will forget its responsibility to protect the Royal Mausoleum.{nl}Defeat these Guardians near the large cubes.
+QUEST_LV_0100_20150317_000592	Есть Guardian которыми овладело Зло, и они забыли свои обязанности по защите Royal Mausoleum.{nl}Убейте этих Guardians неподалеку от Large Cube.
 QUEST_LV_0100_20150317_000593	Defense System Manual
-QUEST_LV_0100_20150317_000594	A Guardian that forgot its mission to protect the Royal Mausoleum deserves to be destroyed.
+QUEST_LV_0100_20150317_000594	Guardian которые забыли о своей миссии по защите Royal Mausoleum заслуживают уничтожения.
 QUEST_LV_0100_20150317_000595	Role of the Guardians
-QUEST_LV_0100_20150317_000596	By recycling the power supply of the Guardians that forgot their mission, we can return them to be part of the Royal Mausoleum.
+QUEST_LV_0100_20150317_000596	После переработки источников питания предавших нас Guardians, мы можем вернуть их, и снова сделать частью Royal Mausoleum.
 QUEST_LV_0100_20150317_000597	Guardian's Stone Statue
-QUEST_LV_0100_20150317_000598	The Guardians are corrupted with evil energy.{nl}Destroy the corrupted Guardians to stop it from spreading.
+QUEST_LV_0100_20150317_000598	Guardians are corrupted with evil energy.{nl}Destroy the corrupted Guardians to stop it from spreading.
 QUEST_LV_0100_20150317_000599	The demons are trying to take over the roots of the Royal Mausoleum.{nl}If all controlling magic becomes corrupted, we can't protect the Royal Mausoleum anymore.
 QUEST_LV_0100_20150317_000600	The Guardians' corruption is spreading like a plague.{nl}We need to look for a special way to stop it.
 QUEST_LV_0100_20150317_000601	We need to destroy the corrupted Guardians that are sleeping.{nl}First, collect condensed magic from the jars nearby.
