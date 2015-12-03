@@ -698,56 +698,56 @@ QUEST_LV_0100_20150317_000693	Вы достойны получить тайны�
 QUEST_LV_0100_20150317_000694	{memo X}
 QUEST_LV_0100_20150317_000695	Магический подавитель гробницы может быть уничтожен с помощью камней активации, найденных внутри Guardians.{nl}Подавленная магия гробницы освободится и пресечет распространение порочной энергии.
 QUEST_LV_0100_20150317_000696	О присутствии зла напоминают только имена демонов на Guardians.{nl}Guardians уничтожат Royal Mausoleum не зная, что Relevator здесь.{nl}
-QUEST_LV_0100_20150317_000697	Stop the final Guardian, Bearkaras, before it destroys the Royal Mausoleum.
-QUEST_LV_0100_20150317_000698	Stop the final Guardian, Bearkaras, before it destroys the Royal Mausoleum.{nl}
+QUEST_LV_0100_20150317_000697	Останови последнего Guardian, Bearkaras, прежде чем он уничтожит Royal Mausoleum.
+QUEST_LV_0100_20150317_000698	Останови последнего Guardian, Bearkaras, прежде чем он уничтожит Royal Mausoleum.{nl}
 QUEST_LV_0100_20150317_000699	{memo X}
-QUEST_LV_0100_20150317_000700	This monster is called a Moa. {nl}It ran away to the Leipsna Chapel Site to the west.{nl}
+QUEST_LV_0100_20150317_000700	Этот монстр называется Moa. {nl}Он убежал на запад, к Leipsna Chapel Site.{nl}
 QUEST_LV_0100_20150317_000701	{memo X}
-QUEST_LV_0100_20150317_000702	{memo X}Did Laima know that the world would turn out like this?{nl}She is the Goddess of destiny and forecasts.
-QUEST_LV_0100_20150317_000703	It would not be strange if the world ended tomorrow.{nl}However, I just want to know. Why the Goddesses disappeared..
-QUEST_LV_0100_20150317_000704	Press {Img F1 40 40} to use your remaining Status Points on the status you want to enhance.{nl}
-QUEST_LV_0100_20150317_000705	Press {Img F10 40 40} to open the Help menu for more information.
-QUEST_LV_0100_20150317_000706	Press {Img F3 40 40} to open the Skill window.{nl}Use your Skill Points on the skills you want to enhance, then click on 'O' to confirm. {nl}
-QUEST_LV_0100_20150317_000707	{memo X}Find and offer worship to all the Goddess Statues scattered around the world while you travel. You will surely be compensated for doing so. {nl}
-QUEST_LV_0100_20150317_000708	{memo X}Press {Img F10 40 40} to open the Help window for more information.
-QUEST_LV_0100_20150317_000709	Other troops are fighting in the Miners' Village and we are blocking the monsters from here. {nl}I don't think the Vubbes are smart enough to make use of tactics... I am concerned about that.
-QUEST_LV_0100_20150317_000710	We have problems here, but I'm also worried about the other troops fighting in the Miners' Village. {nl} Normally, that should have cleared up pretty quickly.
+QUEST_LV_0100_20150317_000702	{memo X}Знала ли Laima, что все может обернуться таким образом.{nl}Ведь она Богиня судьбы и предсказаний.
+QUEST_LV_0100_20150317_000703	Я не удивлюсь если конец света наступит уже завтра.{nl}Тем не менее, я просто хочу знать. Почему Богини исчезли...
+QUEST_LV_0100_20150317_000704	Нажмите {Img F1 40 40} для вложения имеющихся Очков Статуса в характеристику, которую вы хотите улучшить.{nl}
+QUEST_LV_0100_20150317_000705	Нажмите {Img F10 40 40} чтобы открыть окно Помощи для получения дополнительной информации.
+QUEST_LV_0100_20150317_000706	Нажмите {Img F3 40 40} чтобы открыть окно Умений.{nl}Используйте имеющиеся Очки Умений для повышения уровня нужных Вам навыков, затем нажмите 'O' для подтверждения. {nl}
+QUEST_LV_0100_20150317_000707	{memo X}Найдите во время путешествия и отдайте дань уважения всем Goddess Statues разбросанным по всему миру. Вы точно будете вознаграждены за это. {nl}
+QUEST_LV_0100_20150317_000708	{memo X}Нажмите {Img F10 40 40} чтобы открыть окно Помощи для получения дополнительной информации.
+QUEST_LV_0100_20150317_000709	Другие войска воюют в Miners' Village а мы блокируем монстров отсюда. {nl}Я не думаю, что Vubbes достаточно умны, чтобы использовать тактику... Но все же беспокоюсь об этом.
+QUEST_LV_0100_20150317_000710	У нас достаточно и своих проблем здесь, но я также беспокоюсь о других войсках, ведущих боевые действия в Miners' Village. {nl} Обычно все становится ясным достаточно быстро.
 QUEST_LV_0100_20150317_000711	Watcher Gilbert
-QUEST_LV_0100_20150317_000712	It's the Pantos again. {nl} They even stole the working parts. {nl} Well then, we've got to take them back, right?
-QUEST_LV_0100_20150317_000713	{memo X}I could handle it myself. {nl}Those weaklings would come trembling on their knees to return the parts. {nl} But what if more thieves come while I'm at it?
-QUEST_LV_0100_20150317_000714	Well done. {nl} Now attach this and grease it, then it should work correctly. 
-QUEST_LV_0100_20150317_000715	The Pantos hid some parts in the grasslands of Mieguista Slope. {nl} Try to get me those for the time being since it's urgent.
-QUEST_LV_0100_20150317_000716	The Pantos think the grassland hides everything. {nl} I used to find that cute about them.
+QUEST_LV_0100_20150317_000712	Это снова Pantos. {nl} Они даже украли рабочие части механизма. {nl} Ну тогда, мы должны забрать их обратно, так?
+QUEST_LV_0100_20150317_000713	{memo X}Я со всем справлюсь в одиночку. {nl}Эти слабаки до дрожи в коленях хотят вернуть эти детали. {nl} Но что если, пока я буду это делать, придет еще больше воров?
+QUEST_LV_0100_20150317_000714	Отлично. {nl} Теперь ставим это на место, смазываем, и все должно снова работать. 
+QUEST_LV_0100_20150317_000715	Pantos спрятали некоторые части в лугах Mieguista Slope. {nl} Попробуйте вернуть их вовремя, так как это срочно.
+QUEST_LV_0100_20150317_000716	Pantos думают что в траве можно спрятать все что угодно. {nl} Я нахожу это довольно милым.
 QUEST_LV_0100_20150317_000717	Watcher Matthew
-QUEST_LV_0100_20150317_000718	I am looking for cable car parts, but I can't seem to find any. {nl} Maybe the Zignuts at Nepavy Grassland swallowed them. {nl}
+QUEST_LV_0100_20150317_000718	Я ищу части фуникулера, но не могу найти ни одной. {nl} Возможно Zignuts в Nepavy Grassland проглотили их. {nl}
 QUEST_LV_0100_20150317_000719	{memo X}
-QUEST_LV_0100_20150317_000720	I want to go destroy those demons, but..{nl}The cable car hasn't been working right, so I need to work on fixing it.
-QUEST_LV_0100_20150317_000721	If it wasn't for me, uncle Gilbert would have been going around looking through this huge area. {nl} I'm truly worried.
-QUEST_LV_0100_20150317_000722	This is a sacred land we have served for generations. {nl} We used to hold prayer and important meetings here whenever there was a disaster. {nl}
-QUEST_LV_0100_20150317_000723	But it's been like this since it fell to evil energy four years ago. {nl} I guess the elders couldn't have helped it either.
-QUEST_LV_0100_20150317_000724	In the past, this cable car was just a rope with a basket. {nl} You had to put your life on the line whenever you crossed it. {nl}
-QUEST_LV_0100_20150317_000725	So I traveled to Klaipeda and learned the skills to create it myself. {nl} I have to start looking for a successor, but Matthew doesn't seem interested.
+QUEST_LV_0100_20150317_000720	Я хочу пойти уничтожать тех демонов, но...{nl}Фуникулер не работает, поэтому мне нужно трудиться над его починкой..
+QUEST_LV_0100_20150317_000721	Если бы не я, дяде Gilbert пришлось бы обходить всю эту огромную территорию пешком. {nl} Я действительно волнуюсь.
+QUEST_LV_0100_20150317_000722	Это священная земля, которой мы служили в течение нескольких поколений. {nl} Мы проводили молитву и важные встречи здесь всякий раз, когда там было несчастье. {nl}
+QUEST_LV_0100_20150317_000723	Но похоже это место пропиталось злой энергией около четырех лет назад. {nl} Я думаю, старейшины не смогли бы ничем помочь.
+QUEST_LV_0100_20150317_000724	В прошлом эта канатная дорога была просто веревкой с корзиной. {nl} Каждая поездка на ней была сродни рулетке. {nl}
+QUEST_LV_0100_20150317_000725	Поэтому я отправился в Klaipeda и научился навыкам, чтобы создать ее самому. {nl} Мне пора искать преемника, но Matthew кажется, это не интересно.
 QUEST_LV_0100_20150317_000726	Watcher Basil
-QUEST_LV_0100_20150317_000727	The Shaman Doll is to be filled with Mushcaria's Enchanted Mane. {nl} The Mushcaria should be in the Tustanti Plateau, can you get it's mane for me?
-QUEST_LV_0100_20150317_000728	They used to be considered mysterious creatures, worthy of respect. {nl} But nowadays you just go a few steps outside town and they are everywhere, preying on people.
-QUEST_LV_0100_20150317_000729	I forgot that Mushcaria was still alive. {nl} Anyway, you did a good job.
-QUEST_LV_0100_20150317_000730	There is enough time, so visit Follower Algis first.
-QUEST_LV_0100_20150317_000731	Now I will head this way to the chapel. {nl} Our Paladin friend likes the word 'if' a lot. {nl}
-QUEST_LV_0100_20150317_000732	If our mission goes as planned, then we will have no need to meet again. {nl} Well, it sounds like it would be unpleasant to meet you again, haha.
+QUEST_LV_0100_20150317_000727	Shaman Doll заполняется из Mushcaria's Enchanted Mane. {nl} Mushcaria должны быть в Tustanti Plateau, Вы сможете принести его гриву для меня?
+QUEST_LV_0100_20150317_000728	Они использовались для изучения загадочных существ. Достойно уважения. {nl} Но сейчас, достаточно выйти за стены города, и они повсюду - охотятся на людей.
+QUEST_LV_0100_20150317_000729	Я забыл, что Mushcaria все еще живы. {nl} В любом случае, вы сделали хорошую работу.
+QUEST_LV_0100_20150317_000730	Время терпит, так что загляните сперва к Follower Algis.
+QUEST_LV_0100_20150317_000731	Теперь я пойду по этой дороге к часовне. {nl} Наш друг Paladin очень любит слово 'если'. {nl}
+QUEST_LV_0100_20150317_000732	Если наша миссия пойдет по плану, то у нас не будет необходимости встречаться снова. {nl} Хм, это звучит как если бы я не хотел больше с Вами встречаться, ахаха.
 QUEST_LV_0100_20150317_000733	Watcher Allen
-QUEST_LV_0100_20150317_000734	The barrier at Mazas Rest Place used to stop the demons has been destroyed. {nl} I want to fix it, could you lend me your help?
-QUEST_LV_0100_20150317_000735	The barrier was made a long time ago. {nl} And I failed to protect it, what do I tell our ancestors?
-QUEST_LV_0100_20150317_000736	I'm pretty dull and unsure on fixing the barrier, so could you inform to Kayetonas about it?
+QUEST_LV_0100_20150317_000734	Барьер в Mazas Rest Place использующийся для остановки демонов, был уничтожен. {nl} Я хочу починить его. Не могли бы Вы мне помочь?
+QUEST_LV_0100_20150317_000735	Барьер был сделан давным-давно. {nl} И я не смог его защитить. Что я теперь скажу нашим предкам при встрече?
+QUEST_LV_0100_20150317_000736	Я в починке барьеров полный ноль, не могли бы Вы сообщить об этом Kayetonas?
 QUEST_LV_0100_20150317_000737	Follower Kayetonas
-QUEST_LV_0100_20150317_000738	No wonder. I was bewildered when the demons suddenly appeared out of nowhere. {nl} I better let my brothers know about this. Thank you.
+QUEST_LV_0100_20150317_000738	Неудивительно. Я был ошеломлен, когда демоны вдруг появились из ниоткуда. {nl} Мне лучше сообщить об этом братьям. Спасибо.
 QUEST_LV_0100_20150317_000739	Watcher Kenneth
-QUEST_LV_0100_20150317_000740	You can't let your guard down just because the demon summoning circles are gone. {nl} We don't even know what caused them to appear in the first place. {nl}
-QUEST_LV_0100_20150317_000741	Anyway, please inform Kayetonas at Flower Greeting Hill about this.
-QUEST_LV_0100_20150317_000742	It might be a bit extreme, but I'm thinking about eradicating all the demon's souls.{nl}
+QUEST_LV_0100_20150317_000740	Вы не должны ослаблять бдительность только потому, что круги призывов демонов разрушены. {nl} Мы даже не знаем, что заставило их появиться в первый раз. {nl}
+QUEST_LV_0100_20150317_000741	В любом случае, пожалуйста, сообщите Kayetonas в Flower Greeting Hill об этом.
+QUEST_LV_0100_20150317_000742	Это может быть немного самонадеянно, но я думаю о том, чтобы истребить души всех демонов.{nl}
 QUEST_LV_0100_20150317_000743	{memo X}
-QUEST_LV_0100_20150317_000744	{memo X}You'd better defeat the severed souls quickly. {nl} Wouldn't it be scary to see them come back to life?
-QUEST_LV_0100_20150317_000745	Actually, I had some doubts, but it seems to work? {nl} Please let Kayetonas know about this. {nl} I think he will be pleased, he is in Flower Greeting Hill.
-QUEST_LV_0100_20150317_000746	Now, I think I can live. {nl} We have to keep it up and stop the demons. {nl} Please tell Kayetonas that protecting this place isn't easy.
+QUEST_LV_0100_20150317_000744	{memo X}Лучше бы Вам победить эти поврежденные души быстро. {nl}Разве не было бы страшно видеть, что они возвращаются к жизни?
+QUEST_LV_0100_20150317_000745	На самом деле у меня были некоторые сомнения, но это кажется работает? {nl} Пожалуйста, дайте знать об этом Kayetonas. {nl} Я думаю, ему будет приятно, сейчас он в Flower Greeting Hill.
+QUEST_LV_0100_20150317_000746	Теперь, я думаю, что смогу жить. {nl} Мы должны удержать ее и остановить демонов. {nl} Скажите Kayetonas, что защита этого места - дело не легкое.
 QUEST_LV_0100_20150317_000747	The demons are very strong.{nl}I will protect this place to block those demons.
 QUEST_LV_0100_20150317_000748	{memo X}Welcome, I'm glad to see that you've had a safe journey here. {nl}Before anything else, there are things about this place that the Revelator should know. {nl}
 QUEST_LV_0100_20150317_000749	My old friend, Algis, will explain. Please listen to him.
