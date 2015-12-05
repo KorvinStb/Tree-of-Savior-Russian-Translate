@@ -748,56 +748,56 @@ QUEST_LV_0100_20150317_000743	{memo X}
 QUEST_LV_0100_20150317_000744	{memo X}Лучше бы Вам победить эти поврежденные души быстро. {nl}Разве не было бы страшно видеть, что они возвращаются к жизни?
 QUEST_LV_0100_20150317_000745	На самом деле у меня были некоторые сомнения, но это кажется работает? {nl} Пожалуйста, дайте знать об этом Kayetonas. {nl} Я думаю, ему будет приятно, сейчас он в Flower Greeting Hill.
 QUEST_LV_0100_20150317_000746	Теперь, я думаю, что смогу жить. {nl} Мы должны удержать ее и остановить демонов. {nl} Скажите Kayetonas, что защита этого места - дело не легкое.
-QUEST_LV_0100_20150317_000747	The demons are very strong.{nl}I will protect this place to block those demons.
-QUEST_LV_0100_20150317_000748	{memo X}Welcome, I'm glad to see that you've had a safe journey here. {nl}Before anything else, there are things about this place that the Revelator should know. {nl}
-QUEST_LV_0100_20150317_000749	My old friend, Algis, will explain. Please listen to him.
-QUEST_LV_0100_20150317_000750	I can see the monsters clearly from up here.{nl}We may get surrounded by them soon.
-QUEST_LV_0100_20150317_000751	The pieces of the destroyed barrier are scattered at Mazas Rest Place. {nl} Collect them and give them to Kayetonas at Flower Greeting Hill. {nl}
-QUEST_LV_0100_20150317_000752	My poor deceased father would be happy if he knew I became a watcher.{nl}But, I've already made a mistake.
-QUEST_LV_0100_20150317_000753	We can say it's peaceful for now.{nl}For now.
+QUEST_LV_0100_20150317_000747	Демоны очень сильны.{nl}Я буду защищать это место, чтобы сдерживать демонов.
+QUEST_LV_0100_20150317_000748	{memo X}Добро пожаловать, я рад видеть, что у вас было безопасное путешествие. {nl}Прежде всего, есть вещи которые Revelator должен знать об этом месте. {nl}
+QUEST_LV_0100_20150317_000749	Мой старый друг, Algis, все объяснит. Пожалуйста, выслушайте его.
+QUEST_LV_0100_20150317_000750	Я четко могу видеть монстров отсюда.{nl}Мы можем попасть в окружение уже в ближайшее время.
+QUEST_LV_0100_20150317_000751	Куски разрушенного барьера разбросаны по всей зоне Mazas Rest Place. {nl} Соберите их и отдайте Kayetonas в Flower Greeting Hill. {nl}
+QUEST_LV_0100_20150317_000752	Мой бедный покойный отец был бы счастлив, если бы узнал что я стал наблюдателем.{nl}Но, я уже сделал ошибку.
+QUEST_LV_0100_20150317_000753	Можно сказать, что пока мирно.{nl}Пока.
 QUEST_LV_0100_20150317_000754	{memo X}
-QUEST_LV_0100_20150317_000755	If any Watchers are struggling with the barriers, I'd like you to help them.
-QUEST_LV_0100_20150317_000756	I heard that the plan failed. {nl} I guess we have to do something before Gesti recovers.
+QUEST_LV_0100_20150317_000755	Если какой-нибудь Watchers пытается пробиться через барьер, я бы хотел чтобы Вы помогли ему.
+QUEST_LV_0100_20150317_000756	Я слышал, что план провалился. {nl} Я думаю, мы должны что-то сделать, прежде чем Gesti восстановится.
 QUEST_LV_0100_20150317_000757	Watcher Erra
-QUEST_LV_0100_20150317_000758	What if one of those flowers suddenly bit you?{nl}They may look beautiful to you, but I don't just see them as beautiful.
-QUEST_LV_0100_20150317_000759	I need the sap of Nepenthes, but it's not awake.{nl}I have no way to collect the sap if it doesn't wake up.{nl}
-QUEST_LV_0100_20150317_000760	{memo X}That's why I am thinking about setting fire.{nl}I hope you collect the fats by defeating Malidus.
+QUEST_LV_0100_20150317_000758	Что если один из этих цветов вдруг укусит вас?{nl}Для Вас они могут выглядеть красиво, но я вижу не только их красоту.
+QUEST_LV_0100_20150317_000759	Мне нужен сок Nepenthes, но он не проснулся.{nl}У меня нет возможности собирать сок, если он спит.{nl}
+QUEST_LV_0100_20150317_000760	{memo X}Вот почему я думаю о поджоге.{nl}Я надеюсь Вы соберете жир, победив Malidus.
 QUEST_LV_0100_20150317_000761	Follower Rikke
-QUEST_LV_0100_20150317_000762	The elders gave me many charms that will help me fend off the demons.{nl}I hope they help.
-QUEST_LV_0100_20150317_000763	Those elders don't have any sense of reality.{nl}We should have gone to the chapel instead of those Paladins.
-QUEST_LV_0100_20150317_000764	Good. Good.{nl}Let's see if it can resist waking up.
-QUEST_LV_0100_20150317_000765	Let's wake up the Nepenthes at Piene Field by burning it with this fat.{nl}The fluids will be of no use if they spoil, so we need to extract them while it's alive.
-QUEST_LV_0100_20150317_000766	Only a person like me can handle that monster.{nl}What do you think?
-QUEST_LV_0100_20150317_000767	They protected their regions, but I guess they came down because of those demons.{nl}
-QUEST_LV_0100_20150317_000768	They're not listening?{nl}Could the Panto Totems in Valyma Sanctum be causing problems?
-QUEST_LV_0100_20150317_000769	I will give you a stronger charm, so use it after destroying the Panto Totem.{nl}Just like you did last time. You got it?
-QUEST_LV_0100_20150317_000770	Ah, and if brainwashed Panto attacks the attacking Panto, that Panto will be on our side as well.
-QUEST_LV_0100_20150317_000771	Now I get it. {nl}Well done.
+QUEST_LV_0100_20150317_000762	Старейшины дали мне много амулетов, которые помогут мне отбиться от демонов.{nl}Надеюсь они помогут.
+QUEST_LV_0100_20150317_000763	Эти старейшины вообще не иеют чувства реальности.{nl}Это мы должны были пойти в часовню вместо тех Paladins.
+QUEST_LV_0100_20150317_000764	Хорошо. Хорошо.{nl}Давайте посмотрим может ли он сопротивляться пробуждению.
+QUEST_LV_0100_20150317_000765	Давайте разбудим Nepenthes в Piene Field сожжением этого жира.{nl}Нам нужно добыть его пока монстры живы, иначе никакого толку не будет.
+QUEST_LV_0100_20150317_000766	Только человек вроде меня может справиться с этим монстром.{nl}Как думаете?
+QUEST_LV_0100_20150317_000767	Они защищали свои ареалы, но, я думаю спустились они из-за этих демонов.{nl}
+QUEST_LV_0100_20150317_000768	Они не слушают?{nl}Могут ли Panto Totems в Valyma Sanctum быть причиной проблем?
+QUEST_LV_0100_20150317_000769	Я дам тебе амулет посильнее, так что используй его для уничтожения Panto Totem.{nl}Действуйте как и в прошлый раз. Вы поняли?
+QUEST_LV_0100_20150317_000770	Ах, если заставить Panto атаковать атакующих Panto, эти Panto перейдут на нашу сторону.
+QUEST_LV_0100_20150317_000771	Теперь я все понял. {nl}Дело сделано.
 QUEST_LV_0100_20150317_000772	Follower Alfonsas
-QUEST_LV_0100_20150317_000773	Amazing.{nl}With this, my brothers at the chapel can fight without any worries.
-QUEST_LV_0100_20150317_000774	The demon summoning circles are the biggest problem here.{nl}If we scribble on the circles, do you think the summoning formulas will become tangled?
-QUEST_LV_0100_20150317_000775	At the very least, the demons should stop crossing through when those circles are removed.{nl}Though I do hope for a better result.
-QUEST_LV_0100_20150317_000776	They're getting swallowed up into them.{nl}Very effective indeed.
+QUEST_LV_0100_20150317_000773	Потрясающе{nl}С этим, мои братья в часовне смогут сражаться без каких-либо забот.
+QUEST_LV_0100_20150317_000774	Круги призыва демонов являются наибольшей проблемой здесь.{nl}Если мы поцарапаем их, как Вы думаете, они выйдут из строя?
+QUEST_LV_0100_20150317_000775	По крайней мере, демоны должны перестать появляться после разрушения кругов призыва.{nl}Хотя я надеюсь на лучший результат.
+QUEST_LV_0100_20150317_000776	Они продолжают поглощать их в себя.{nl}Очень эффективно, согласен.
 QUEST_LV_0100_20150317_000777	Follower Vaidas
-QUEST_LV_0100_20150317_000778	It is reassuring to hear that Brother Tomas will be in charge of the altar.{nl}
-QUEST_LV_0100_20150317_000779	Brother Vaidutis is waiting on the 1st floor. {nl}Gesti's barrier is blocking the way, but it can simply be taken down by the power of the altar, so do not worry.
+QUEST_LV_0100_20150317_000778	Отрадно слышать, что Brother Tomas будет отвечать за алтарь.{nl}
+QUEST_LV_0100_20150317_000779	Brother Vaidutis ждет на 1-м этаже. {nl}Барьер Gesti's блокирует путь, но он может быть просто разрушен силой алтаря, так что не переживайте.
 QUEST_LV_0100_20150317_000780	Follower Vaidas
-QUEST_LV_0100_20150317_000781	I regret that I didn't bring enough Holy Stones.{nl}I should have put them in all my pockets.
-QUEST_LV_0100_20150317_000782	The altars in the chapel are made to stop demons. {nl} Of course, only we, the Paladins, know how to use them.
-QUEST_LV_0100_20150317_000783	Is Brother Vaidutis alright?{nl} I would have been in serious trouble if not for your help.
+QUEST_LV_0100_20150317_000781	Я жалею, что я не принес достаточно Holy Stones.{nl}Я должен был набить ими все карманы.
+QUEST_LV_0100_20150317_000782	Алтари в часовне сделаны, чтобы остановить демонов. {nl} Конечно только мы, Paladins, знаем, как ими пользоваться.
+QUEST_LV_0100_20150317_000783	Brother Vaidutis в порядке?{nl} Я бы серьезно влип, если бы не ваша помощь.
 QUEST_LV_0100_20150317_000784	Follower Tomas
-QUEST_LV_0100_20150317_000785	The Yognomes are trying to eat the altar.{nl}I want you to defeat them.
-QUEST_LV_0100_20150317_000786	If I had any Holy Stones, I would stick them in the Yognomes' mouths.
+QUEST_LV_0100_20150317_000785	Yognomes пытаются съесть алтарь.{nl}Я хочу чтобы Вы уничтожили их.
+QUEST_LV_0100_20150317_000786	Если бы у меня были Holy Stones, я бы воткнул их Yognomes прямо в пасть.
 QUEST_LV_0100_20150317_000787	Follower Tiberius
-QUEST_LV_0100_20150317_000788	I am making a Holy Bomb to attack demons with.{nl}I can complete it if I obtain Purified Essence. Can you help me?
-QUEST_LV_0100_20150317_000789	Bombs in the chapel doesn't sound good, but..{nl}I think the Goddess will forgive me this time.
-QUEST_LV_0100_20150317_000790	I want to test it out on Glizardon.{nl}I'll give you the Holy Bomb. Can you put it onto a Glizardon's back?
-QUEST_LV_0100_20150317_000791	If you think it'll be dangerous, I will also give you Romuva Holy Water.{nl}When you drink this water, you will be invisible to the demons for a short time.
-QUEST_LV_0100_20150317_000792	Run away after setting the bomb on the back of Glizardon.{nl}Look at its size. It will not be fast.
-QUEST_LV_0100_20150317_000793	I only have one empty Holy Stone.{nl}Can you help me to fill this stone, please?
-QUEST_LV_0100_20150317_000794	We can sustain for a while if these stones can be filled without our brothers' help.
-QUEST_LV_0100_20150317_000795	It is a strategy to attack the boss first when there are multiple enemies.{nl}This time, it will be Glizardon.
-QUEST_LV_0100_20150317_000796	I would never have thought that you would defeat them this quickly.{nl}Thank you for your help.
+QUEST_LV_0100_20150317_000788	Я делаю Holy Bomb, чтобы с ее помощью атаковать демонов.{nl}Я смогу закончить ее, если у меня будет Purified Essence. Вы сможете мне с этим помочь?
+QUEST_LV_0100_20150317_000789	Бомба в часовне, звучит не очень хорошо, но..{nl}Я думаю, что Богиня простит меня на этот раз.
+QUEST_LV_0100_20150317_000790	Я хочу проверить ее на Glizardon.{nl}Я дам Вам Holy Bomb. Вы можете положить ее на спину Glizardon?
+QUEST_LV_0100_20150317_000791	Если вы думаете, что это будет опасно, я также дам Romuva Holy Water.{nl}Когда вы выпьете эту воду, короткое время вы будете невидимыми для демонов.
+QUEST_LV_0100_20150317_000792	Когда установите бомбу на спину Glizardon, - бегите.{nl}Посмотрите на его размеры. Вряд ли он быстро бегает.
+QUEST_LV_0100_20150317_000793	У меня только один пустой Holy Stone.{nl}Можете ли Вы помочь мне заполнить этот камень?
+QUEST_LV_0100_20150317_000794	Мы могли бы и потерпеть немного, если бы эти камни могли заполняться без помощи наших братьев.
+QUEST_LV_0100_20150317_000795	Нужно атаковать босса в первую очередь, даже если есть другие враги.{nl}На этот раз, это будет Glizardon.
+QUEST_LV_0100_20150317_000796	Я никогда бы не подумал, что Вы победите их так быстро.{nl}Спасибо Вам за помощь.
 QUEST_LV_0100_20150317_000797	Follower Donatas
 QUEST_LV_0100_20150317_000798	Thank you. {nl} This is sufficient to make a transformation scroll.
 QUEST_LV_0100_20150317_000799	You can transform into a demon by using this scroll. {nl} Persuade the demons to go to the altar on their own.
