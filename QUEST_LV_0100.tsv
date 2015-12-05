@@ -799,56 +799,56 @@ QUEST_LV_0100_20150317_000794	Мы могли бы и потерпеть нем�
 QUEST_LV_0100_20150317_000795	Нужно атаковать босса в первую очередь, даже если есть другие враги.{nl}На этот раз, это будет Glizardon.
 QUEST_LV_0100_20150317_000796	Я никогда бы не подумал, что Вы победите их так быстро.{nl}Спасибо Вам за помощь.
 QUEST_LV_0100_20150317_000797	Follower Donatas
-QUEST_LV_0100_20150317_000798	Thank you. {nl} This is sufficient to make a transformation scroll.
-QUEST_LV_0100_20150317_000799	You can transform into a demon by using this scroll. {nl} Persuade the demons to go to the altar on their own.
-QUEST_LV_0100_20150317_000800	I get caught every time, maybe the demons know my scent. {nl} I'm sure it'll be easier for you since you haven't been around for long.
-QUEST_LV_0100_20150317_000801	Alright. {nl} I think that should be enough for you to grasp their nature.
-QUEST_LV_0100_20150317_000802	The power of the altar makes conversion simple. {nl} First, you activate the power of Globejas Altar. {nl} Then, stay within the influence of the altar and fight the demons.
-QUEST_LV_0100_20150317_000803	The demons have stronger minds than you might think. {nl}It will take a lot of effort to make them forget about Gesti.
-QUEST_LV_0100_20150317_000804	Don't trust the water's effects too much, or Glizardon may find out about it.
-QUEST_LV_0100_20150317_000805	I am thinking about an effective way to defeat the demons.{nl}You came just at the right time.
-QUEST_LV_0100_20150317_000806	When you place the Holy Stone, it will absorb the lives of the nearby demons automatically.{nl}Defeat the demons that have already had their life absorbed.
-QUEST_LV_0100_20150317_000807	You can obtain Vicious Essences from the demons.{nl}You can purify these essences at the Altar of Purification, which is down from here.
-QUEST_LV_0100_20150317_000808	{memo X}Oh, they will find out if you are not confident enough. {nl}So it's better to fight the demons to gain some self confidence before using the scroll.
+QUEST_LV_0100_20150317_000798	Спасибо. {nl} Этого достаточно, чтобы сделать свиток трансформации.
+QUEST_LV_0100_20150317_000799	Вы можете превращаться в демона, используя этот свиток. {nl} После этого уговорите демонов идти к алтарю самостоятельно.
+QUEST_LV_0100_20150317_000800	Я попадаюсь каждый раз, может быть, демоны знают мой запах. {nl} Я уверен, что для Вас это будет проще, поскольку Вас здесь не было в течении некоторого времени.
+QUEST_LV_0100_20150317_000801	Хорошо. {nl} Я думаю, что этого должно быть достаточно для Вас, чтобы понять их природу.
+QUEST_LV_0100_20150317_000802	Сила алтаря делает преобразование предельно простым. {nl} Во-первых, вы активируете Globejas Altar. {nl} Затем, остаетесь в пределах влияния алтаря и боретесь с демонами.
+QUEST_LV_0100_20150317_000803	Демоническое сознание сильнее, чем вы думаете. {nl}Понадобится много усилий, чтобы заставить их забыть о Gesti.
+QUEST_LV_0100_20150317_000804	Не сильно доверяйте водным эффектам, иначе Glizardon может узнать об этом.
+QUEST_LV_0100_20150317_000805	Я размышляю над эффективным способом победить демонов.{nl}Вы пришли как раз в нужное время.
+QUEST_LV_0100_20150317_000806	Когда Вы активируете Holy Stone, он автоматически поглотит жизнь ближайших демонов.{nl}Уничтожьте демонов, жизнь которых уже поглощена.
+QUEST_LV_0100_20150317_000807	Vicious Essences можно получить из демонов.{nl}Вы можете очистить эти эссенции в Altar of Purification, который находится ниже.
+QUEST_LV_0100_20150317_000808	{memo X}Ох, они узнают, если Вы недостаточно уверенны. {nl}Поэтому, перед использованием свитка, лучше убить несколько демонов. Для уверенности.
 QUEST_LV_0100_20150317_000809	Epigraphist Raymond
-QUEST_LV_0100_20150317_000810	This isn't the only monument.{nl}There's a fine monument at Irody Square.
-QUEST_LV_0100_20150317_000811	Who cherished such traitor? Don't you think there would be a different reason?
-QUEST_LV_0100_20150317_000812	Surprisingly, this looks fine.{nl}We should get ready to restore it.
-QUEST_LV_0100_20150317_000813	His monument is cased with a terrible magic because he was a traitor.{nl}We should use that magic instead.
-QUEST_LV_0100_20150317_000814	If we received support than we would have hired mercenaries.{nl}Studying about the traitor doesn't mean that we praise the traitor, so I don't understand why we lost support.
-QUEST_LV_0100_20150317_000815	Thanks.{nl}Achat must have been drawn to the magic power cast upon the monument.
-QUEST_LV_0100_20150317_000816	It's kind of curious that something that looks like a tree stump would be interested in stone plates.
-QUEST_LV_0100_20150317_000817	I am sorry, but we can't find the one that we needed among the fragments you brought.{nl}I hope it's not already been eaten.
-QUEST_LV_0100_20150317_000818	Don't you think we would be able to find the stone pieces that a Tree Ambulo swallowed if we burn it?{nl}I have stacked wood there, so we can push it in when the wood is burning.
-QUEST_LV_0100_20150317_000819	Be careful.{nl}It will be dangerous if a flaming Tree Ambulo runs into the camp.
+QUEST_LV_0100_20150317_000810	Это не единственный монумент{nl}Есть еще один в Irody Square.
+QUEST_LV_0100_20150317_000811	Кто взлелеял подобного предателя? Вам не кажется что там может быть несколько причин?
+QUEST_LV_0100_20150317_000812	Удивительно, но это выглядит хорошо.{nl}Мы должны быть готовы, чтобы восстановить его.
+QUEST_LV_0100_20150317_000813	Его монумент окружен ужасающей магией, все потому, что он был предателем.{nl}Мы должны использовать эту магию.
+QUEST_LV_0100_20150317_000814	Если бы мы получили поддержку, мы бы не нуждались в наемниках.{nl}То что мы изучаем предателя, вовсе не значит, что мы его почитаем, или что-то подобное. Так что я не понимаю, почему мы потеряли поддержку.
+QUEST_LV_0100_20150317_000815	Спасибо.{nl}Achat должно быть обратился к магическим силам, заклиная монумент.
+QUEST_LV_0100_20150317_000816	Это довольно забавно, что нечто похожее на пень, заинтересовано в каменных плитах.
+QUEST_LV_0100_20150317_000817	Я сожалею, но мы не можем найти тот, что нам нужен, среди осколков которые Вы принесли.{nl}Я все же надеюсь что его не сожрали.
+QUEST_LV_0100_20150317_000818	Тебе не кажется, что мы сможем найти каменные осколки проглоченные Tree Ambulo, сжигая их?{nl}Я оставил там дрова, так что нам останется только сталкивать их в огонь.
+QUEST_LV_0100_20150317_000819	Будьте осторожны.{nl}Будет опасно, если пылающий Tree Ambulo ринется в лагерь.
 QUEST_LV_0100_20150317_000820	Treasure Hunter Eden
-QUEST_LV_0100_20150317_000821	I am a treasure hunter, not a monster hunter.{nl}I don't want this place to become my grave, having fought monsters.
-QUEST_LV_0100_20150317_000822	I've collected all the fragments Raymond requested. {nl} Bring them back to Raymond.
-QUEST_LV_0100_20150317_000823	Eden told you to give this to me?{nl}Hmm. It will take some time to restore it.{nl}
-QUEST_LV_0100_20150317_000824	Can you take these restored gravestone fragments to my assistant at Irody Square?{nl}I think something good will happen when we finish restoring it.
+QUEST_LV_0100_20150317_000821	Я кладоискатель, а не убийца монстров.{nl}Я не хочу, чтобы это место стало моей могилой, потому что на меня напали монстры.
+QUEST_LV_0100_20150317_000822	Я собрал все фрагменты, которые запросил Raymond. {nl} Отнеси их ему.
+QUEST_LV_0100_20150317_000823	Eden просил тебе передать это мне?{nl}Хм. Восстановление займет некоторое время.{nl}
+QUEST_LV_0100_20150317_000824	Вы можете отнести эти восстановленные фрагменты надгробия, моему ассистенту в Irody Square?{nl}Я думаю произойдет что-то хорошее, когда мы закончим его восстановление.
 QUEST_LV_0100_20150317_000825	Epigraphist Schmid
-QUEST_LV_0100_20150317_000826	This... Our master did it!{nl}Give it to me, please.
-QUEST_LV_0100_20150317_000827	Not yet. A little more.{nl}I think I just need to do a little bit more.
+QUEST_LV_0100_20150317_000826	Это... Наш мастер сделал это!{nl}Отдайте его мне, пожалуйста.
+QUEST_LV_0100_20150317_000827	Пока нет. Еще немного.{nl}Я думаю, что просто необходимо сделать еще немного.
 QUEST_LV_0100_20150317_000828	Necromancer Drasius
-QUEST_LV_0100_20150317_000829	Please put the sacrifices in the jar at Dumbla Pond.{nl}The summoned spirit will come to me if you succeed.
-QUEST_LV_0100_20150317_000830	It depends on how one uses necromancy.{nl}It could be good or bad depending on what Necromancer has in his mind.
-QUEST_LV_0100_20150317_000831	The experiment failed? I am so sorry.{nl}I should research more here to find out what went wrong.
+QUEST_LV_0100_20150317_000829	Пожалуйста, поместите пожертвования в урны, что находятся в Dumbla Pond.{nl}Вызванный дух придет ко мне, если вам это удастся.
+QUEST_LV_0100_20150317_000830	Это зависит от того, как человек использует некромантию.{nl}Она может быть хорошей или плохой в зависимости от того, что Necromancer хочет в данный момент.
+QUEST_LV_0100_20150317_000831	Эксперимент провалился? Мне так жаль.{nl}Я должен провести больше исследований, чтобы выяснить что пошло не так.
 QUEST_LV_0100_20150317_000832	Monument of Lydia Schaffen
-QUEST_LV_0100_20150317_000833	My name is Lydia Schaffen.{nl}I will no longer endure this deep burden of sadness, I am going to tell the truth about Ruklys on this land.
-QUEST_LV_0100_20150317_000834	There is no more charcoal besides what you have, so don't use it too freely.
-QUEST_LV_0100_20150317_000835	I didn't know she studied with Ruklys, the traitor.{nl}Shoot. I've almost used up all the charcoal.
-QUEST_LV_0100_20150317_000836	Eventually, Ruklys failed.{nl}He was destroyed by those who were jealous of him.{nl}He left to the Goddess by my hands.
-QUEST_LV_0100_20150317_000837	What was Lydia Schaffen's relationship with Ruklys?{nl}I am not smart enough to understand.
-QUEST_LV_0100_20150317_000838	{memo X}I leave Ruklys on this land with my regrets and tears.{nl}If there's someone who wants to continue his will, I want to leave my secret on this gravestone.{nl}I will summarize the long writings here.
-QUEST_LV_0100_20150317_000839	The stage that Ruklys had reached was astonishing.{nl}But, his noble mission was too difficult to be accomplished on this land.
-QUEST_LV_0100_20150317_000840	Since I am on a long journey, my luggage is not heavy.{nl}It's better to buy anything from local shops.
-QUEST_LV_0100_20150317_000841	Any archer would want to have good arrowheads.{nl}I will show you how to find good arrowheads, so how about you help me some?
-QUEST_LV_0100_20150317_000842	They aren't very quick, so this shouldn't be hard for you to do.{nl}I'm sure of it.
-QUEST_LV_0100_20150317_000843	Thanks. These are still hot to the touch.{nl}Aren't they nice?
+QUEST_LV_0100_20150317_000833	Меня зовут Lydia Schaffen.{nl}Я больше не буду нести это тяжелое бремя печали, я собираюсь рассказать правду о Ruklys на этой земле.
+QUEST_LV_0100_20150317_000834	Здесь больше нет угля, кроме того что сейчас у Вас, так что не тратьте его впустую.
+QUEST_LV_0100_20150317_000835	Я не знала, что она училась с Ruklys, предателем.{nl}Зараза. Я уже почти израсходовала весь уголь..
+QUEST_LV_0100_20150317_000836	В конце концов, Ruklys потерпел поражение.{nl}Он был разрушен теми, кто завидовал ему.{nl}Он ушел к Богине от моей руки.
+QUEST_LV_0100_20150317_000837	Какие у Lydia Schaffen's были отношения с Ruklys?{nl}Я не достаточно умен, чтобы понять.
+QUEST_LV_0100_20150317_000838	{memo X}Я оставил Ruklys на этой земле с сожалениями и слезами.{nl}Если кто-то захочет продолжить его волю, я оставлю мой секрет на этом надгробие.{nl}Я подытожу эту длинную надпись.
+QUEST_LV_0100_20150317_000839	Уровень, которого достиг Ruklys был поразителен.{nl}Но, его благородная миссия была слишком сложной, чтобы быть выполненой на этой земле.
+QUEST_LV_0100_20150317_000840	Несмотря на долгое путешествие, мой багаж не тяжелый.{nl}Лучше купить что-нибудь в местных магазинах.
+QUEST_LV_0100_20150317_000841	Любой лучник хотел бы иметь хорошие наконечники для стрел.{nl}Я покажу Вам, как найти хорошие наконечники для стрел, но как насчет небольшой помощи мне?
+QUEST_LV_0100_20150317_000842	Они не очень быстрые, так что это не должно стать для Вас проблемой.{nl}Я уверен.
+QUEST_LV_0100_20150317_000843	Спасибо. Они все еще горячие на ощупь.{nl}Разве они не милые?
 QUEST_LV_0100_20150317_000844	Wandering Spirit
 QUEST_LV_0100_20150317_000845	{memo X}
 QUEST_LV_0100_20150317_000846	Operation Order
-QUEST_LV_0100_20150317_000847	The steps for luring a Unicorn.{nl}1. Collect Zolem Stones from Zolems{nl}2. Set the stones around Neryshkus Sanctum Ruins.
+QUEST_LV_0100_20150317_000847	Шаги для выманивания Unicorn.{nl}1. Соберите Zolem Stones из Zolems{nl}2. Поместите их вокруг Neryshkus Sanctum Ruins.
 QUEST_LV_0100_20150317_000848	Guard Leaper
 QUEST_LV_0100_20150317_000849	This operation had failed several years ago.{nl}Where did you get this anyway?{nl}
 QUEST_LV_0100_20150317_000850	I understand. Please take the Unicorn's Horn to that girl.{nl}Her brother went missing after that.
