@@ -871,7 +871,7 @@ QUEST_LV_0100_20150317_000866	Я изучал барьер у ворот, но �
 QUEST_LV_0100_20150317_000867	Может быть, Богиня знала, что это бессмысленно, и поэтому сказала ждать Revelator. {nl} ПО крайней мере, мы немного ранили Gesti, что уже неплохо.
 QUEST_LV_0100_20150317_000868	Хорошо. {nl} Созданного с помощью этого, Light Crystal, должно быть достаточно для разрушения барьера.
 QUEST_LV_0100_20150317_000869	{memo X}Хорошенько подготовьтесь, прежде чем отнесете Light Crystal к вратам. {nl}Это может привлечь могущественных созданий.
-QUEST_LV_0100_20150317_000870	Я думаю, что останусь здесь, чтобы предотвратить проникновение в подвал демонов.
+QUEST_LV_0100_20150317_000870	Я думаю, что останусь здесь, чтобы предотвратить проникновение демонов в подвал.
 QUEST_LV_0100_20150317_000871	Это честь, сражаться с Вами, Revelator. {nl} Не могли бы Вы изгнать демонов из этой области, пока Follower Algis проводит расследование?
 QUEST_LV_0100_20150317_000872	Не могли бы Вы достать Eyes of Madness из Rodelins?{nl}Они весьма пригодятся, если Вы захотите скрыть себя от демонов.
 QUEST_LV_0100_20150317_000873	Я не хочу находится рядом с этими грязными вещами.{nl}Но еще хуже, снова встертится с демонами в одиночку.
@@ -897,59 +897,59 @@ QUEST_LV_0100_20150317_000892	Многие структуры в Tenet Chapel п
 QUEST_LV_0100_20150317_000893	Самый мощный барьер на 2-м этаже. {nl} Я слышал, что он может выдать наибольшую силу, когда есть Divine Sphere.
 QUEST_LV_0100_20150317_000894	Gesti сделали первый ход. {nl} Трудно будет подойти к ней тайно.
 QUEST_LV_0100_20150317_000895	Я должен изменить наш план. {nl} Во-первых, вы должны пойти понаблюдать за действиями Gesti. {nl}
-QUEST_LV_0100_20150317_000896	Давайте начнем занимать Bell Tower.
-QUEST_LV_0100_20150317_000897	From here, we can see what Gesti is going to do.
-QUEST_LV_0100_20150317_000898	Alright, bring the Seal of Space from the Sventove Central Altar. {nl} You can do it, right?
-QUEST_LV_0100_20150317_000899	You must know that the revelation is hidden in the sanctuary. {nl} The Seal of Space is the only key that will get you to the sanctuary. {nl}
-QUEST_LV_0100_20150317_000900	It's not just Tenet Chapel. {nl} You can enter all the places that the Goddess hid.
-QUEST_LV_0100_20150317_000901	The Seal of Space can only be used by the Revelator, so you won't be able to find the revelation right away. {nl}
-QUEST_LV_0100_20150317_000902	But the enemy is the Demon Queen herself. Even the Paladin Master couldn't defeat her.{nl}I should use the power of the Broken Altar.
-QUEST_LV_0100_20150317_000903	We can't do anything about the destroyed altar, but the fragments still have power. {nl} Gather the pieces and insert them in the 8 pillars of the Sventove Central Hall.
-QUEST_LV_0100_20150317_000904	When you are done, I will be able to restrict Gesti through the power of the Divine Sphere and the chapel. {nl} It may be for a short while but that's the best option we have.
-QUEST_LV_0100_20150317_000905	So you activated the Malda Altar? {nl} Now it will be safe to stay here for the time being. Good work.
-QUEST_LV_0100_20150317_000906	Demons are going around the second floor searching every corner. {nl} Activating the Auka Altar will catch their attention.
-QUEST_LV_0100_20150317_000907	{memo X}I'm relieved you're beside me. {nl} I think it was a good thing that Laima chose you.
-QUEST_LV_0100_20150317_000908	Good job. {nl} When this is over, I should gather all brothers and drive them away at once.
-QUEST_LV_0100_20150317_000909	I'll ring the bell and let you know when Gesti shows up, so have a safe trip on your way.
-QUEST_LV_0100_20150317_000910	{memo X}So you found the Seal of Space. {nl}Use the crest on the pillar beside me to go to the sanctuary. {nl} It is prepared for the Revelator only.
-QUEST_LV_0100_20150317_000911	May the blessings of the Goddess be with you.
-QUEST_LV_0100_20150317_000912	So Gesti just ran away. {nl} Fine. Since you got the revelation, we've completed the mission. {nl}
+QUEST_LV_0100_20150317_000896	Давайте начнем захват Bell Tower.
+QUEST_LV_0100_20150317_000897	Отсюда мы можем увидеть, что собирается делать Gesti.
+QUEST_LV_0100_20150317_000898	Ладно, принесите Seal of Space из Sventove Central Altar. {nl} Вы ведь сможете это сделать, да?
+QUEST_LV_0100_20150317_000899	Вы должны знать, что откровение сокрыто в святилище. {nl} Seal of Space это единственный ключ, который поможет попасть в святилище. {nl}
+QUEST_LV_0100_20150317_000900	Это не только Tenet Chapel. {nl} Вы сможете посетить все места сокрытые богиней.
+QUEST_LV_0100_20150317_000901	Seal of Space может использовать только Revelator, так что Вы не сможете сразу найти откровение. {nl}
+QUEST_LV_0100_20150317_000902	Но враг - Demon Queen собственной персоной. Даже Paladin Master не смог одолеть ее.{nl}Я должен использовать силу Broken Altar.
+QUEST_LV_0100_20150317_000903	Мы ничего не сможем сделать с сразрушенным алтарем, но его осколки все еще имеют силу. {nl} Соберите осколки и поместите их в 8 опор, что находятся в Sventove Central Hall.
+QUEST_LV_0100_20150317_000904	Когда вы закончите, я смогу ограничить Gesti используя силу Divine Sphere и часовни. {nl} Это совсем ненадолго, но это лучший вариант для нас.
+QUEST_LV_0100_20150317_000905	Так Вы активировали Malda Altar? {nl} Теперь некоторое время здесь будет безопасно. Хорошая работа.
+QUEST_LV_0100_20150317_000906	Демоны собираются на втором этаже и обыскивают все углы. {nl} Активация Auka Altar привлечет их внимание.
+QUEST_LV_0100_20150317_000907	{memo X}Я рад, что ты рядом со мной. {nl} Я думаю это хорошо, что Laima выбрала тебя.
+QUEST_LV_0100_20150317_000908	Отличная работа. {nl} Когда это все закончится, я должен собрать всех братьев и прогнать их подальше.
+QUEST_LV_0100_20150317_000909	Я позвоню в колокол и таким образом дам Вам знать что Gesti появился, так что желаю Вам безопасной дороги.
+QUEST_LV_0100_20150317_000910	{memo X}Вы обнаружили Seal of Space. {nl}Используйте герб на столбе рядом со мной, чтобы пройти в святилище. {nl} Это сделано только для Revelator.
+QUEST_LV_0100_20150317_000911	Пусть благословение богини пребудет с тобой.
+QUEST_LV_0100_20150317_000912	Так Gesti просто сбежал. {nl} Ладно. Так как Вы получили откровение, мы все равно выполнили задание. {nl}
 QUEST_LV_0100_20150317_000913	{memo X}
-QUEST_LV_0100_20150317_000914	{memo X}When you find the revelation, tell the Paladin Master of the story you've been through so far. {nl} May the blessings of the Goddess be with you.
-QUEST_LV_0100_20150317_000915	Seems like Gesti did not notice yet. {nl}We better prepare the Divine Sphere.
-QUEST_LV_0100_20150317_000916	All the preparations have been made. {nl} The barriers of the chapel will soon weaken Gesti. {nl}
-QUEST_LV_0100_20150317_000917	Gesti will be enough for you to handle once she's weakened. {nl} When Gesti is cornered, I will make the final strike with the Divine Sphere.
-QUEST_LV_0100_20150317_000918	These are pieces of the barrier at Mazas Rest Place. {nl} Do not worry. {nl} There are ways to recover the barrier, so I'm sure it will be alright.
-QUEST_LV_0100_20150317_000919	I didn't know the demons would use summoning circles to come through. {nl} I suggest removing them all before they siege us.
-QUEST_LV_0100_20150317_000920	Even with this many demons, you still managed to make it through. {nl} You may be the Revelator, but that's still impressive. {nl}
-QUEST_LV_0100_20150317_000921	It's the revelation. {nl} Cherish it and do not show it to anyone else. {nl}
-QUEST_LV_0100_20150317_000922	Come on. Go to the Paladin Master. {nl} He will tell you the way you must go.
-QUEST_LV_0100_20150317_000923	I asked my precious friend Algis to go to Tenet Chapel. {nl} I won't lose to Gesti, but it is important to have some back up plan just in case.
+QUEST_LV_0100_20150317_000914	{memo X}Когда Вы отыщите откровение, расскажите Paladin Master историю ваших приключений. {nl} Пусть благословение богини пребудет с тобой.
+QUEST_LV_0100_20150317_000915	Похоже Gesti ни о чем не подозревает. {nl}Нам лучше подготовить Divine Sphere.
+QUEST_LV_0100_20150317_000916	Все приготовления были сделаны. {nl} Барьеры часовни в скором времени ослабят Gesti. {nl}
+QUEST_LV_0100_20150317_000917	Gesti должен быть достаточно ослаблен, чтобы Вы с ним справились. {nl} Когда Gesti будет загнан в угол, я сделаю финальный удар с помощью Divine Sphere.
+QUEST_LV_0100_20150317_000918	Это части барьера из Mazas Rest Place. {nl} Не беспокойтесь. {nl} Есть способы восстановить барьер. Так что я уверена, что все будет хорошо.
+QUEST_LV_0100_20150317_000919	Я не знал, что демоны будут использовать магические круги призыва для проникновения сквозь них. {nl} Предлагаю устранить их прежде, чем нас возьмут в осаду.
+QUEST_LV_0100_20150317_000920	Даже с таким количеством демонов, Вы все-таки сумели сделать это. {nl} Вы может быть и Revelator, но это все равно впечатляет. {nl}
+QUEST_LV_0100_20150317_000921	Это откровение. {nl} Дорожите им и не показывай больше никому. {nl}
+QUEST_LV_0100_20150317_000922	Ну же. Идите к Paladin Master. {nl} Он укажет Вам путь,по которому Вы должны пойти.
+QUEST_LV_0100_20150317_000923	Я попросил моего дорогого друга Algis отправиться в Tenet Chapel. {nl} Я не проиграю Gesti, но важно иметь запасной план. На всякий случай.
 QUEST_LV_0100_20150317_000924	{memo X}
-QUEST_LV_0100_20150317_000925	In the kingdom, there are several valuable weapons aside from this Divine Sphere. {nl} Those weapons saved many lives on Medzio Diena four years ago.
-QUEST_LV_0100_20150317_000926	From now on, I will focus on the Divine Sphere. {nl} Meanwhile, please use your skills so that I won't be disturbed.
-QUEST_LV_0100_20150317_000927	I'm sorry. It's all my fault. {nl}Gesti has realized that the Holy Relic is not the revelation, so she will head straight to the chapel. {nl}
-QUEST_LV_0100_20150317_000928	{memo X}But this old body of mine does not follow my will anymore. {nl} Now I can only trust my old friend Algis and you. {nl}
+QUEST_LV_0100_20150317_000925	В королевстве, есть еще несколько образцов ценного оружия за исключением этой Divine Sphere. {nl} Это оружие спасло множество жизней в Medzio Diena четыре года назад.
+QUEST_LV_0100_20150317_000926	Отныне я сосредоточусь на Divine Sphere. {nl} Меж тем, пожалуйста, используйте Dаши навыки, чтобы меня не беспокоили.
+QUEST_LV_0100_20150317_000927	Простите. Это все моя вина. {nl}Gesti осознал, что Holy Relic это не откровение, так что она направится прямиком к часовне. {nl}
+QUEST_LV_0100_20150317_000928	{memo X}Но это старое тело больше не следует за моей волей. {nl} Сейчас я могу доверять только моему старому другу Algis и тебе. {nl}
 QUEST_LV_0100_20150317_000929	{memo X}
-QUEST_LV_0100_20150317_000930	It is too much for me to handle alone without any help from the other brothers. {nl} I'd better use the Malda Altar. {nl}
+QUEST_LV_0100_20150317_000930	Это слишком много для меня, чтобы справиться в одиночку без всякой помощи со стороны других братьев. {nl} Я лучше использую Malda Altar. {nl}
 QUEST_LV_0100_20150317_000931	{memo X}
-QUEST_LV_0100_20150317_000932	We still have a lot to do here.{nl}The Goddess told us to never give up.
-QUEST_LV_0100_20150317_000933	The world still needs more experience. {nl} We probably wouldn't have made it this far without the help of the Goddess.
-QUEST_LV_0100_20150317_000934	Activating the Tree Guard Post Barrier is taking longer than I thought. {nl} We have no time, let's charge it with demon souls instead.
-QUEST_LV_0100_20150317_000935	All souls are pure. {nl} So even if it's a demon's soul, it can still provide some divine power.
-QUEST_LV_0100_20150317_000936	So the Tree Guard Post Barrier has been charged with demon souls, huh. {nl} It still needs some final touches for completion, but I'll take care of it from here. {nl}Great job.
-QUEST_LV_0100_20150317_000937	It's amazing you can use the barrier like that. {nl} Even the Paladins did not know about that. {nl}
+QUEST_LV_0100_20150317_000932	Нам еще многое предстоит сделать здесь.{nl}Богиня завещала нам никогда не сдаваться.
+QUEST_LV_0100_20150317_000933	Миру по-прежнему нужно больше опыта. {nl} Наверное, мы бы не продвинулись настолько далеко без помощи богини.
+QUEST_LV_0100_20150317_000934	Активация Tree Guard Post Barrier займет больше времени, чем я думал. {nl} У нас нет времени, давайте заряжать его душой демона.
+QUEST_LV_0100_20150317_000935	Все души чисты. {nl} Так что даже если это будет душа демона, она все равно может дать толику божественной силы.
+QUEST_LV_0100_20150317_000936	Поэтому Tree Guard Post Barrier был заряжен с помощью душ демонов, хех. {nl} Он все еще нуждается в некоторых финальных штрихах, но я буду заботиться о нем отсюда. {nl}Отличная работа.
+QUEST_LV_0100_20150317_000937	Это поражает, что вы можете пользоваться барьером подобно этому. {nl} Даже Паладины ничего не знают об этом. {nl}
 QUEST_LV_0100_20150317_000938	{memo X}
-QUEST_LV_0100_20150317_000939	Holding off against this many enemies is by itself a great feat. {nl} It's all thanks to the Paladin Master.
-QUEST_LV_0100_20150317_000940	Even though he's still young, Kenneth is amazing. {nl}I think we can trust him a little more.
-QUEST_LV_0100_20150317_000941	I have received an urgent message from the Watchers.{nl}A gigantic demon monster is coming this way.{nl}Quickly, follow me.{nl}
-QUEST_LV_0100_20150317_000942	Biteregina, which used to live in the deep forest, has appeared here.{nl}It even built a hive at the upper side of Rojus Plateau. Since it's dangerous, can you defeat it?
-QUEST_LV_0100_20150317_000943	Thank you so much!{nl}How did it come from such a far forest?{nl}Strange, huh?
-QUEST_LV_0100_20150317_000944	I can't do anything since the Seedmias are attacking us from every direction.{nl}Can you defeat them?
-QUEST_LV_0100_20150317_000945	I really hope those Seedmias don't hit me on the head with those flower buds.  They look horrible.
-QUEST_LV_0100_20150317_000946	I received a mysterious charm from the elders that will brainwash Pantos to stand on our side.{nl}Are you up for a challenge?{nl}
-QUEST_LV_0100_20150317_000947	According to the elders, we are done with those Pantos.{nl}We can't continue the relationship anymore.
-QUEST_LV_0100_20150317_000948	This barrier is impossible to open from the outside. {nl} Fortunately, the entrance to the basement looks secure. {nl}
+QUEST_LV_0100_20150317_000939	Сдерживание стольких врагов - это само по себе великий подвиг. {nl} Это все благодаря Paladin Master.
+QUEST_LV_0100_20150317_000940	Хотя он еще так молод, Kenneth удивителен. {nl}Я думаю, мы можем доверять ему немного больше.
+QUEST_LV_0100_20150317_000941	Я получил срочное сообщение от Watchers.{nl}Гигантский демон-монстр идет сюда.{nl}Быстро, следуйте за мной.{nl}
+QUEST_LV_0100_20150317_000942	Biteregina, которое жило в глухом лесу, появилось здесь.{nl}Оно даже построило улей в верхней стороне Rojus Plateau. Это вызывает опасения. Не могли бы Вы убить его?
+QUEST_LV_0100_20150317_000943	Спасибо Вам огромное!{nl}Как оно смогло добраться так далеко от своего леса?{nl}Странно, да?
+QUEST_LV_0100_20150317_000944	Я ничего не могу сделать пока Seedmias атакуют нас со всех сторон.{nl}Поэтому прошу - убейте их.
+QUEST_LV_0100_20150317_000945	Я очень надеюсь, что Seedmias не будут бить меня по голове своими бутонами. Они выглядят ужасно.
+QUEST_LV_0100_20150317_000946	Я получил "таинственное очарование" от старейшин, которое будет промывать мозги Pantos, чтобы они были на нашей стороне.{nl}Готовы ли Вы к соревнованию?{nl}
+QUEST_LV_0100_20150317_000947	Согласно словам старейшин, нам нужно заканчивать с Pantos.{nl}Мы больше не можем их использовать.
+QUEST_LV_0100_20150317_000948	Этот барьер невозможно открыть снаружи. {nl} К счастью, вход в подвал выглядит безопасно. {nl}
 QUEST_LV_0100_20150317_000949	However, it's too dangerous to enter the basement with the Divine Sphere. {nl} I'll wait here so you go to the 1st floor through the basement and open the barrier. {nl}
 QUEST_LV_0100_20150317_000950	You have done what no other could easily do.{nl}The Goddess must be proud of you.
 QUEST_LV_0100_20150317_000951	I would like to say that my faith is like a first-class blade that can cut through these demons, {nl}but in reality it isn't that simple. I hope you'll help us some.
