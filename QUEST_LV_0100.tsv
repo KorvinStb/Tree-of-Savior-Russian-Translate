@@ -950,106 +950,106 @@ QUEST_LV_0100_20150317_000945	Я очень надеюсь, что Seedmias не
 QUEST_LV_0100_20150317_000946	Я получил "таинственное очарование" от старейшин, которое будет промывать мозги Pantos, чтобы они были на нашей стороне.{nl}Готовы ли Вы к соревнованию?{nl}
 QUEST_LV_0100_20150317_000947	Согласно словам старейшин, нам нужно заканчивать с Pantos.{nl}Мы больше не можем их использовать.
 QUEST_LV_0100_20150317_000948	Этот барьер невозможно открыть снаружи. {nl} К счастью, вход в подвал выглядит безопасно. {nl}
-QUEST_LV_0100_20150317_000949	However, it's too dangerous to enter the basement with the Divine Sphere. {nl} I'll wait here so you go to the 1st floor through the basement and open the barrier. {nl}
-QUEST_LV_0100_20150317_000950	You have done what no other could easily do.{nl}The Goddess must be proud of you.
-QUEST_LV_0100_20150317_000951	I would like to say that my faith is like a first-class blade that can cut through these demons, {nl}but in reality it isn't that simple. I hope you'll help us some.
+QUEST_LV_0100_20150317_000949	Впрочем, слишком опасно идти в подвал с Divine Sphere. {nl} Я подожду здесь, а Вы идите на 1 этаж через подвал и снимите барьер. {nl}
+QUEST_LV_0100_20150317_000950	Вы сделали то, что никто до этого так легко не мог сделать.{nl}Богиня должна гордиться Вами.
+QUEST_LV_0100_20150317_000951	Я хотел бы сказать, что моя вера столь же крепка, как и этот первоклассный клинок, который с легкостью шинкует демонов, {nl}но в реальности все не так просто. Я надеюсь, что Вы поможете нам.
 QUEST_LV_0100_20150317_000952	{memo X}
-QUEST_LV_0100_20150317_000953	Defeat the demons around the Tree Guard Post Barrier. {nl} The souls of those demons should be able to fill its divine powers a little. I'm counting on you!
-QUEST_LV_0100_20150317_000954	Very good. Flowers in the fields should act like flowers in the fields.{nl}Don't you think so?
-QUEST_LV_0100_20150317_000955	We are the people following the Paladin Master.{nl}We will defeat the people who disobey the Goddess.{nl}
-QUEST_LV_0100_20150317_000956	Everyone has their reasons for following him.{nl}Some of them received benefits from him and some of them were already Paladins like Algis.
-QUEST_LV_0100_20150317_000957	Maybe the Goddess knew it would happen and that's why she waited for the savior.{nl}I feel like I put a big burden on your shoulders.{nl}
+QUEST_LV_0100_20150317_000953	Одолейте демонов около Tree Guard Post Barrier. {nl} Души тех демонов должны быть в состоянии немного пополнить божественные силы. Я рассчитываю на Вас!
+QUEST_LV_0100_20150317_000954	Очень хорошо. Цветы в полях, должны вести себя как цветы в полях. А не как монстры.{nl}Вам так не кажется?
+QUEST_LV_0100_20150317_000955	Мы люди, следующие за Paladin Master.{nl}И мы победим тех, кто не подчиняется богине.{nl}
+QUEST_LV_0100_20150317_000956	У каждого есть свои причины следовать за ним.{nl}Некоторые только получили предложение, а кто-то уже является паладином. Как например Algis.
+QUEST_LV_0100_20150317_000957	Может быть Богиня знала, что это произойдет и именно поэтому она ждала Спасителя.{nl}Я чувствую, что взвалил большую ношу на ваши плечи.{nl}
 QUEST_LV_0100_20150317_000958	{memo X}
-QUEST_LV_0100_20150317_000959	This is the plan that was carried on for hundreds of years since the first Paladin.{nl}We should never fail this plan.
-QUEST_LV_0100_20150317_000960	While I prepare to do the rubbings, please put the engravings at the Ruklys memorial in front of me. {nl} With you working with us, this should be easy. {nl}
-QUEST_LV_0100_20150317_000961	I will follow you soon. Just a moment.
-QUEST_LV_0100_20150317_000962	After we finish the rubbings, we can say farewell to this place.{nl}Can you help me a bit more?
-QUEST_LV_0100_20150317_000963	The capital may already be in ruins, but I will protect Klaipeda.
-QUEST_LV_0100_20150317_000964	Using all your power to crush any enemy that would threaten the kingdom. {nl} That's how Highlanders fight in battle. {nl}
-QUEST_LV_0100_20150317_000965	Good work, guys. {nl} Actually, I was also an adventure but the results seem to be fine. {nl} You just need to tell it like that to Kayetonas in Flower hill.
-QUEST_LV_0100_20150317_000966	Seems like even the Auka Altar lost its powers. {nl} There were stories about its powers wiping out dozens of demons in the past.
-QUEST_LV_0100_20150317_000967	It's hard to watch the Egnomes running around the Atgaila Chapel.{nl} Please clean up the Egnomes.
-QUEST_LV_0100_20150317_000968	Many of the Paladin's treasures are also here.  Do not let them fall into the hands of the demons.
-QUEST_LV_0100_20150317_000969	After using the charm on the Pantos, hit them several times.{nl}Try that on the Pantos in Levanda Habitat.
-QUEST_LV_0100_20150317_000970	{memo X}Isn't this city amazing? I want to stay here if I can.{nl}But, I prefer going to other places with my horse.
-QUEST_LV_0100_20150317_000971	{memo X}The space movement magic circle will take you to your preferred floor in the tower.{nl}I don't know if we can use the field anymore. Let's go and find out.
-QUEST_LV_0100_20150317_000972	I hope the monsters haven't broken the magic circle yet.
-QUEST_LV_0100_20150317_000973	{memo X}Damn.{nl}They broke it. It is unfixable.
-QUEST_LV_0100_20150317_000974	{memo X}When you activate the device which sets barriers, monsters won't be able to come in.{nl}The supply device for demons' power is broken, but we can input the power with other methods.
-QUEST_LV_0100_20150317_000975	{memo X}I hope that crazy magician, Antares, won't disturb us.
-QUEST_LV_0100_20150317_000976	{memo X}He set a trap so well.{nl}I didn't like him even he was conscious.
-QUEST_LV_0100_20150317_000977	{memo X}We have to be careful from here.{nl}This is the place where Antares, a dangerous magician, was imprisoned.{nl}We should move up to the next floor quickly.
-QUEST_LV_0100_20150317_000978	{memo X}He was a great magician before.{nl}But, his ideology was too dangerous.
-QUEST_LV_0100_20150317_000979	Oh my goodness, why now..{nl}
-QUEST_LV_0100_20150317_000980	{memo X}The reason why he was imprisoned here was because he badly wanted the concentrated demons' power here.{nl}What do you think would happen to the tower when the power which was concentrated for hundreds of years explode at once?
-QUEST_LV_0100_20150317_000981	{memo X}Gabija is important, but the tower is more dangerous.{nl}Antares may be engaged in something by now.
-QUEST_LV_0100_20150317_000982	{memo X}There are two valves here that control the power device.{nl}The first valve is at the lab room so let's go and destroy it now.
-QUEST_LV_0100_20150317_000983	{memo X}Explosion, that was too dangerous.{nl}Let's find a safer way to destroy it.
-QUEST_LV_0100_20150317_000984	{memo X}Antares has done research on the flow of the demons' power for a long time.{nl}If his research materials are still present, they will help us in destroying those valves.{nl}They must be here somewhere..
-QUEST_LV_0100_20150317_000985	The research materials should be here somewhere..
-QUEST_LV_0100_20150317_000986	{memo X}This is it. Now I think I know how to break those valves.
-QUEST_LV_0100_20150317_000987	{memo X}Let's go find the last valve at the central control room.{nl}When we destroy this, we will be safe no matter what Antares does.
-QUEST_LV_0100_20150317_000988	{memo X}Please set this stone and defeat the monsters around.{nl}We can collect the energy to recharge the Barrier Device.
-QUEST_LV_0100_20150317_000989	{memo X}A suitable end for a crazy magician.{nl}It could have been dangerous without defensive magics.{nl}We may have touched it without knowing the first valve was destroyed..{nl}
-QUEST_LV_0100_20150317_000990	{memo X}Anyways, that's good.{nl}The tower is now safe, so let's go up.
-QUEST_LV_0100_20150317_000991	{memo X}Ah, that's right. Let's also prepare defensive magic in case something happens.{nl}There was magic written in Antare's materials that we can use when there are explosions.
+QUEST_LV_0100_20150317_000959	Это план, который исполняется на протяжении сотен лет со времен первого паладина.{nl}Мы не должны допустить нарушения плана.
+QUEST_LV_0100_20150317_000960	Пока я готовлюсь, чтобы сделать оттиски, пожалуйста, поставьте гравюры на Ruklys memorial передо мной. {nl} С Вашей помощью, все должно пройти легко. {nl}
+QUEST_LV_0100_20150317_000961	Скоро я последую за Вами. Секунду.
+QUEST_LV_0100_20150317_000962	После того как мы закончим с оттисками, мы сможем сказать "прощай" этому месту.{nl}Можете ли вы помочь мне еще немного?
+QUEST_LV_0100_20150317_000963	Столица может уже быть в руинах, но я буду защищать Klaipeda.
+QUEST_LV_0100_20150317_000964	Используя все свое могущество, чтобы сокрушить любого врага, который будет угрожать королевству. {nl} Вот как Highlanders поступают в бою. {nl}
+QUEST_LV_0100_20150317_000965	Хорошая работа, ребята. {nl} На самом деле, я тоже был в путешествии, но результаты, кажется, в порядке. {nl} Вам просто нужно сказать это так, чтобы Kayetonas в Flower hill поверил.
+QUEST_LV_0100_20150317_000966	Кажется, даже Auka Altar теряет свои силы. {nl} Есть истории, как в прошлом с помощью своей силы уничтожались десятки демонов.
+QUEST_LV_0100_20150317_000967	Трудно смотреть как Egnomes бегают вокруг Atgaila Chapel.{nl} Пожалуйста, очисти местность от Egnomes.
+QUEST_LV_0100_20150317_000968	Многие сокровища паладинов тоже находятся здесь. Не дайте им попасть в руки демонов.
+QUEST_LV_0100_20150317_000969	После использования очарования на Pantos, ударьте их несколько раз.{nl} Опробуйте этот метод на Pantos в Levanda Habitat.
+QUEST_LV_0100_20150317_000970	{memo X}Разве это не удивительный город? Я хотел бы остаться здесь, если бы мог.{nl} Но, я предпочитаю идти в другие места с моей лошадью.
+QUEST_LV_0100_20150317_000971	{memo X}Пространственный магический круг доставит Вас на нужный Вам этаж в башне.{nl} Я не знаю, сможем ли мы еще пользоваться полем. Давай пойдем и выясним.
+QUEST_LV_0100_20150317_000972	Надеюсь монстры еще не разрушили магический круг.
+QUEST_LV_0100_20150317_000973	{memo X}Проклятье.{nl} Все таки сломали. Восстановлению не подлежит.
+QUEST_LV_0100_20150317_000974	{memo X}При активации устройства, которое устанавливает барьеры, монстры не смогут войти.{nl}Поставка устройств для демонической энергии нарушена, но мы сможем получить силы иным путем.
+QUEST_LV_0100_20150317_000975	{memo X}Я надеюсь, этот сумасшедший маг, Antares, не побеспокоит нас.
+QUEST_LV_0100_20150317_000976	{memo X}Он устроил ловушку очень хорошо.{nl} Я не любил его, даже когда он был в сознании.
+QUEST_LV_0100_20150317_000977	{memo X}Мы должны быть осторожны здесь.{nl} Это место, где Antares, опасный маг, был заключен в тюрьму.{nl}Мы должны подняться на следующий этаж как можно быстрее.
+QUEST_LV_0100_20150317_000978	{memo X}Прежде он был великим магом.{nl} Но его мировоззрение было слишком опасно.
+QUEST_LV_0100_20150317_000979	О Богини, ну почему сейчас..{nl}
+QUEST_LV_0100_20150317_000980	{memo X}Причина по которой он был заключен в тюрьму - он очень хотел владеть сконцентрированными здесь демоническими силами.{nl}Как Вы думаете, что произойдет если мощь, которая копилась в башне веками, единомоментно выйдет наружу?
+QUEST_LV_0100_20150317_000981	{memo X}Gabija важна, но башня более опасна.{nl} Antares может быть занялся чем-то именно сейчас.
+QUEST_LV_0100_20150317_000982	{memo X}Есть два клапана, что контролируют мощь устройства.{nl} Первый клапан находится в лаборатории, так что давайте пойдем и уничтожим его.
+QUEST_LV_0100_20150317_000983	{memo X}Взрыв, это было слишком опасно.{nl} Давайте найдем более безопасный способ уничтожить его.
+QUEST_LV_0100_20150317_000984	{memo X}Antares занимался исследованиями потоков демонической силы в течение длительного времени.{nl} Если его исследовательские материалы по-прежнему здесь, они помогут нам в уничтожении этих клапанов.{nl} Они должны быть где-то здесь..
+QUEST_LV_0100_20150317_000985	Материалы исследования должны быть где-то здесь..
+QUEST_LV_0100_20150317_000986	{memo X}Вот они. Теперь я, кажется знаю, как уничтожить эти клапаны.
+QUEST_LV_0100_20150317_000987	{memo X}Давайте найдем последний клапан в Комнате Контроля.{nl} Когда мы уничтожим его, мы будем в безопасности независимо от того, что Antares будет делать.
+QUEST_LV_0100_20150317_000988	{memo X}Установите этот камень и убейте монстров вокруг.{nl} Мы можем собрать энергию, чтобы перезарядить Barrier Device.
+QUEST_LV_0100_20150317_000989	{memo X}Подходящий конец для сумасшедшего мага.{nl} Это могло быть опасно без оборонительной магии.{nl} Мы возможно коснулись его, не зная, что первый клапан был разрушен..{nl}
+QUEST_LV_0100_20150317_000990	{memo X}В любом случае, это хорошо.{nl} Башня теперь в безопасности, поэтому пойдем наверх.
+QUEST_LV_0100_20150317_000991	{memo X}Хм, это верно. Давайте также подготовим защитную магию на случай, если что-то случится.{nl}Там была магия, записанная в материалах Antare's которую мы можем использовать при взрывах.
 QUEST_LV_0100_20150317_000992	{memo X}
-QUEST_LV_0100_20150317_000993	{memo X}Good. We can use it one more time.{nl}
-QUEST_LV_0100_20150317_000994	{memo X}Let's go find the second valve on the central control room.{nl}If we can destroy it, we will be safe no matter what Antares does.
-QUEST_LV_0100_20150317_000995	{memo X}The Jewel of Prominence is somewhat strange.{nl}Something must have gone wrong when Antares exploded a while ago.
-QUEST_LV_0100_20150317_000996	{memo X}Let's check the status while we defeat the monsters with the Jewel of Prominence.
-QUEST_LV_0100_20150317_000997	{memo X}What is happening to the Jewel of Prominence?{nl}It is very instable.
-QUEST_LV_0100_20150317_000998	{memo X}Did you just see that monster exploding?{nl}It's definitely strange. It seems as if the power of essence is going crazy.
-QUEST_LV_0100_20150317_000999	{memo X}And me.. I feel dizzy..
-QUEST_LV_0100_20150317_001000	{memo X}If we stay like this, the Jewel of Prominence may break.{nl}There must be a stabilizing device somewhere here. Let's go.
-QUEST_LV_0100_20150317_001001	{memo X}By the way, how do I know about the stabilizing device?{nl}I've never been to the 4th floor..
-QUEST_LV_0100_20150317_001002	{memo X}Okay.. My memories keep coming back..{nl}
-QUEST_LV_0100_20150317_001003	{memo X}Ah, the stabilization has come to an end.{nl}I am okay. It's nothing. Just old memory coming back.
-QUEST_LV_0100_20150317_001004	{memo X}The Jewel of Prominence has stopped going crazy.{nl}But, in order to fully stabilize it, we need the Essence of Flame from the fireplace at the middle of the tower.
-QUEST_LV_0100_20150317_001005	{memo X}It's almost done. Yes..
-QUEST_LV_0100_20150317_001006	{memo X}You gathered everything.{nl}Give them to me. Including the Jewel.{nl}I know the way to fully stabilize it so let's go to the Laboratory.
-QUEST_LV_0100_20150317_001007	I hope the device is still okay..
-QUEST_LV_0100_20150317_001008	{memo X}Good! We can activate the device now.
-QUEST_LV_0100_20150317_001009	{memo X}You are the Revelator who helped the Paladin Master right?{nl}My name is Grita. I came from the Mage Tower.
-QUEST_LV_0100_20150317_001010	{memo X}Help me. Gabija is in danger.{nl}We are gonna lose the tower to the demons if we don't receive any help.
+QUEST_LV_0100_20150317_000993	{memo X}Хорошо. Мы можем использовать это еще раз.{nl}
+QUEST_LV_0100_20150317_000994	{memo X}Давайте найдем второй клапан в Комнате Контроля.{nl}Когда мы уничтожим его, мы будем в безопасности независимо от того, что Antares будет делать.
+QUEST_LV_0100_20150317_000995	{memo X}Jewel of Prominence несколько странная.{nl}Видимо что-то пошло не так, когда Antares взорвался некоторое время назад.
+QUEST_LV_0100_20150317_000996	{memo X}Давайте проверим статус пока убиваем монстров с Jewel of Prominence.
+QUEST_LV_0100_20150317_000997	{memo X}Что происходит с Jewel of Prominence?{nl}Он очень нестабилен.
+QUEST_LV_0100_20150317_000998	{memo X}Вы только что видели как монстр взорвался?{nl}Это определенно странно. Кажется, будто сила сущности сходит с ума.
+QUEST_LV_0100_20150317_000999	{memo X}И мне.. у меня кружится голова..
+QUEST_LV_0100_20150317_001000	{memo X}Если мы оставим все как есть, Jewel of Prominence может разрушиться.{nl}Где-то здесь должно быть стабилизирующее устройство. Пойдем.
+QUEST_LV_0100_20150317_001001	{memo X}Кстати, откуда я знаю о стабилизирующем устройстве?{nl}Я же никогда не был на 4м этаже..
+QUEST_LV_0100_20150317_001002	{memo X}Ладно.. мои воспоминания продолжают возвращаться..{nl}
+QUEST_LV_0100_20150317_001003	{memo X}Ах, стабилизация подошла к концу.{nl}Я в порядке. Это ничего. Просто старые воспоминания возвращаются ко мне.
+QUEST_LV_0100_20150317_001004	{memo X}Jewel of Prominence прекратил сходить с ума.{nl}Но для того, чтобы полностью стабилизировать его, нам понадобится Essence of Flame из камина в середине башни.
+QUEST_LV_0100_20150317_001005	{memo X}Дело почти сделано. Да..
+QUEST_LV_0100_20150317_001006	{memo X}Вы собрали все.{nl}Отдайте их мне. В том числе Jewel.{nl}Я знаю способ, чтобы полностью стабилизировать его. Так что пойдем в Laboratory.
+QUEST_LV_0100_20150317_001007	Я надеюсь, что устройство по-прежнему в порядке...
+QUEST_LV_0100_20150317_001008	{memo X}Хорошо! Мы можем активировать устройство прямо сейчас.
+QUEST_LV_0100_20150317_001009	{memo X}Ты Revelator, который помог Paladin Master, верно?{nl}Меня зовут Grita. Я пришла из Mage Tower.
+QUEST_LV_0100_20150317_001010	{memo X}Помоги мне. Gabija в опасности.{nl}Мы потеряем башню демонов, если не получим никакой помощи.
 QUEST_LV_0100_20150317_001011	{memo X}
-QUEST_LV_0100_20150317_001012	{memo X}This is the entrance to the tower.{nl}I became unconscious at the tower and lost all my power somehow.{nl}
-QUEST_LV_0100_20150317_001013	{memo X}I will take care of you and take you to Gabija.{nl}Are you ready?
-QUEST_LV_0100_20150317_001014	{memo X}All other magicians either died or ran away.{nl}You are our last hope. Let's go in.
-QUEST_LV_0100_20150317_001015	{memo X}Gabija did not hide herself.{nl}She just coudnl't come forward because she had to protect the tower from demons.{nl}
-QUEST_LV_0100_20150317_001016	{memo X}I heard Agailla Flurry went because she coun't find a successor. {nl}I heard it was for something important.. But I don't know what it is. 
-QUEST_LV_0100_20150317_001017	Medzio Diena could strike again anytime, whether in your hometown or my kingdom. {nl} The one responsible for this plague would be someone worthy of my sword.
+QUEST_LV_0100_20150317_001012	{memo X}Это вход в башню.{nl}В башне я потеряла сознание, и каким-то образом лишилась всех моих сил.{nl}
+QUEST_LV_0100_20150317_001013	{memo X}Я позабочусь о Вас, и отведу к Gabija.{nl}Вы готовы?
+QUEST_LV_0100_20150317_001014	{memo X}Все остальные маги либо погибли, либо разбежались.{nl}Вы наша последняя надежда. Идем внутрь.
+QUEST_LV_0100_20150317_001015	{memo X}Gabija не может спрятаться.{nl}Она просто не могла выйти вперед, потому что должна была защитить башню от демонов.{nl}
+QUEST_LV_0100_20150317_001016	{memo X}Я слышал Agailla Flurry ушла, потому что не смогла найти преемника. {nl}Я слышала, что это для чего-то важного.. Но я не знаю, что это такое. 
+QUEST_LV_0100_20150317_001017	Medzio Diena может повториться в любое время, будь то ваш родной город или же мое царство. {nl} Ответственным за эту чуму будет кто-то достойный моего меча.
 QUEST_LV_0100_20150317_001018	Owyn
-QUEST_LV_0100_20150317_001019	Reinforcements? That would really lift our spirits!{nl}Please defeat the monsters nearby.
-QUEST_LV_0100_20150317_001020	All the other magicians either died or ran away.{nl}Only Goddess Gabija remains protecting the tower.
-QUEST_LV_0100_20150317_001021	The demons have attacked before, but this battle is taking just too long.{nl}I read about Helgasercle from a book. Maybe she has appeared again..
-QUEST_LV_0100_20150317_001022	As a follower of the great Flurry, I can't back away just yet!
-QUEST_LV_0100_20150317_001023	You are indeed the Revelator.{nl}Look at yourself go!
-QUEST_LV_0100_20150317_001024	Can we have another go, with the same momentum?{nl}I will take care of the other monsters, you go focus on those troublesome Drakes.
-QUEST_LV_0100_20150317_001025	Those monsters are not as strong when we fight together!
-QUEST_LV_0100_20150317_001026	Now I feel safe.{nl}I will be okay by myself from here. Thanks!{nl}{nl}
+QUEST_LV_0100_20150317_001019	Подкрепления? Это действительно поднимет наш дух!{nl} Пожалуйста, убейте монстров поблизости.
+QUEST_LV_0100_20150317_001020	Все остальные маги либо погибли, либо разбежались.{nl}Только богиня Gabija остается на защите башни.
+QUEST_LV_0100_20150317_001021	Демоны напали раньше, но этот бой отбирает много времени{nl}Я читала о Helgasercle. Возможно, она появилась снова..
+QUEST_LV_0100_20150317_001022	Как последователь великого Flurry, Я не могу пока отступить!
+QUEST_LV_0100_20150317_001023	Вы и впрямь Revelator.{nl}Посмотрите на себя!
+QUEST_LV_0100_20150317_001024	Мы сможем сделать повторный проход с такой же инерцией?{nl}Я позабочусь об этих монстрах, а вы сосредоточтесь на хлопотных Drakes.
+QUEST_LV_0100_20150317_001025	Эти монстры не так сильны, если мы сражаемся вместе!
+QUEST_LV_0100_20150317_001026	Сейчас я чувствую себя в безопасности.{nl}Теперь я и сам смогу о себе позаботится. Спасибо!{nl}{nl}
 QUEST_LV_0100_20150317_001027	Cordelier
-QUEST_LV_0100_20150317_001028	Black Coal Powder.. With that, we can unleash the seal that is written on this recipe.{nl}But I can't just find it. I am sorry, but could you bring me that powder?
-QUEST_LV_0100_20150317_001029	{memo X}Isn't it better to just scratch the powder from the monsters nearby?
-QUEST_LV_0100_20150317_001030	Thanks!{nl}Now, I better get ready to unleash the seal.
-QUEST_LV_0100_20150317_001031	Oh no... I forgot I need the Eternal Ember.{nl}I should have also requested this of you before.. Can you please get that for me?{nl}
-QUEST_LV_0100_20150317_001032	I should have requested this of you all at once.{nl}I'm sorry, I make mistakes all the time.
-QUEST_LV_0100_20150317_001033	Could it be Ginklas? I hope it's just a bookshelf falling down in the reading room.{nl}Could you check the bookshelf, please?
-QUEST_LV_0100_20150317_001034	I've never seen a monster who could cause this much vibration.
-QUEST_LV_0100_20150317_001035	It was indeed Ginklas. You are so amazing!{nl}Because of you, I had enough time to prepare my magic.
+QUEST_LV_0100_20150317_001028	Black Coal Powder.. С этим мы сможем вскрыть печать что написана в этом рецепте.{nl}Но я не могу найти его. Я извиняюсь, но не могли бы вы принести мне этот порошок?
+QUEST_LV_0100_20150317_001029	{memo X}Не лучше ли просто наскрести этого порошка из монстров поблизости?
+QUEST_LV_0100_20150317_001030	Спасибо!{nl}Теперь, мне лучше подготовиться к вскрытию печати.
+QUEST_LV_0100_20150317_001031	О нет... Я забыл, что мне нужен Eternal Ember.{nl}Мне стоило бы попросить Вас об этом раньше.. Не могли бы Вы принести мне его?{nl}
+QUEST_LV_0100_20150317_001032	Я должен был просить вас об этом сразу.{nl}Простите, я постоянно делаю ошибки.
+QUEST_LV_0100_20150317_001033	Это может быть Ginklas? Я надеюсь, что это просто упала книжная полка в читальном зале.{nl}Не могли бы вы проверить книжные полки? Пожалуйста.
+QUEST_LV_0100_20150317_001034	Я никогда не видел монстра, который мог бы создавать такие сильные вибрации.
+QUEST_LV_0100_20150317_001035	Это и впрямь был Ginklas. Вы удивительны!{nl}Благодаря Вам, я имел достаточно времени, чтобы подготовить свою магию.
 QUEST_LV_0100_20150317_001036	Sealed Stone
-QUEST_LV_0100_20150317_001037	I am much more than you could ever imagine.{nl}I wish to be released from these restraints. Please defeat the nearby watchers.
-QUEST_LV_0100_20150317_001038	Defeat the watchers.{nl}There's an Eye of Surveillance on Blindlems and Beleggs.
-QUEST_LV_0100_20150317_001039	I shall be released soon.
-QUEST_LV_0100_20150317_001040	{memo X}I can't tell my name. {nl}Please defeat the watchers and unleash the seal on me.{nl}
-QUEST_LV_0100_20150317_001041	Amazing. You possess a great power.
+QUEST_LV_0100_20150317_001037	Я гораздо большее, чем вы могли когда-либо себе вообразить.{nl}Я желаю освободиться от этих ограничений. Пожалуйста, срази ближайших наблюдателей.
+QUEST_LV_0100_20150317_001038	Убейте наблюдателей.{nl}Это Eye of Surveillance, что в Blindlems and Beleggs.
+QUEST_LV_0100_20150317_001039	Вскоре я освобожусь.
+QUEST_LV_0100_20150317_001040	{memo X}Я не могу сказать свое имя. {nl}Пожалуйста победит наблюдателей и разбейте печать.{nl}
+QUEST_LV_0100_20150317_001041	Удивительно. Вы обладаете Великой силой.
 QUEST_LV_0100_20150317_001042	{memo X}
-QUEST_LV_0100_20150317_001043	Another me from somewhere else led you to this place. {nl}Now, I can be released.
-QUEST_LV_0100_20150317_001044	But, if I get released like this, I will be split into pieces.{nl}
-QUEST_LV_0100_20150317_001045	{memo X}The Holy Arc that had me inside is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Holy Ark.
-QUEST_LV_0100_20150317_001046	The Holy Ark that had me inside is broken into pieces and the observers obtained those pieces.
-QUEST_LV_0100_20150317_001047	Now, I can be released.
-QUEST_LV_0100_20150317_001048	As long as there are Eyes of Surveillance, I can't be released from my restraints.{nl}Please defeat the watchers and release me.
+QUEST_LV_0100_20150317_001043	Другой я из другого места привел вас сюда. {nl}Теперь, я могу быть освобожден.
+QUEST_LV_0100_20150317_001044	Но, если я выйду на волю таким, я буду разделен на части.{nl}
+QUEST_LV_0100_20150317_001045	{memo X}Holy Arc что удерживает меня разорвется, и наблюдатели получат эти части.{nl}Пожалуйста, победите их и заполните Holy Ark.
+QUEST_LV_0100_20150317_001046	Holy Arc что удерживает меня разорвется, и наблюдатели получат эти части.
+QUEST_LV_0100_20150317_001047	Теперь, я могу быть освобожден.
+QUEST_LV_0100_20150317_001048	Пока есть Eyes of Surveillance, я не могу быть освобожден от моих ограничений.{nl}Пожалуйста сразите наблюдателей и освободите меня.
 QUEST_LV_0100_20150317_001049	I am tied to a contract.{nl}I am free, but not really free.
 QUEST_LV_0100_20150317_001050	{memo X}I was sealed when my sprit was ripped off by a high class demon.{nl}Please defeat Infroroktors for me. I promise I will not be a burden to you.
 QUEST_LV_0100_20150317_001051	{memo X}Eyes of Surveillance are attached to Infroroktor.
